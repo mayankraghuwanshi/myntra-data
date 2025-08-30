@@ -8,7 +8,7 @@
         "countInStock": 100,
         "numReviews": 4522,
         "rating": 4,
-        "image": "images/b0eb9426-adf2-4802-a6b3-5dbacbc5f2511643971561167KhushalKWomenBlackEthnicMotifsAngrakhaBeadsandStonesKurtawit7.jpg"
+        "image": "/images/b0eb9426-adf2-4802-a6b3-5dbacbc5f2511643971561167KhushalKWomenBlackEthnicMotifsAngrakhaBeadsandStonesKurtawit7.jpg"
     },
     {
         "name": "InWeave Women Orange Solid Kurta with Palazzos & Floral Print Dupatta",
@@ -19,7 +19,7 @@
         "countInStock": 100,
         "numReviews": 1081,
         "rating": 4,
-        "image": "images/17ab2ac8-2e60-422d-9d20-2527415932361640754214931-STRAPPY-SET-IN-ORANGE-WITH-ORGANZA-DUPATTA-5961640754214349-2.jpg"
+        "image": "/images/17ab2ac8-2e60-422d-9d20-2527415932361640754214931-STRAPPY-SET-IN-ORANGE-WITH-ORGANZA-DUPATTA-5961640754214349-2.jpg"
     },
     {
         "name": "Anubhutee Women Navy Blue Ethnic Motifs Embroidered Thread Work Kurta with Trousers & With Dupatta",
@@ -30,29 +30,7 @@
         "countInStock": 100,
         "numReviews": 1752,
         "rating": 4,
-        "image": "images/b8c4f90f-683c-48d2-b8ac-19891a87c0651638428628378KurtaSets1.jpg"
-    },
-    {
-        "name": "Nayo Women Red Floral Printed Kurta With Trouser & Dupatta",
-        "price": 3699.0,
-        "description": "Red printed kurta with trouser and dupattaKurta design:Printed kurtaAnarkali designRound neckThree-quarter sleevesFlared hemCalf lengthTrouser design:Printed trousersElasticated waistbandSlip-on closureDupatta design:White and red printed dupattaTop fabric:  Pure Cotton  Bottom fabric:  Pure Cotton  Dupatta fabric:  Cotton Blend  Hand washDupatta length: 2 metres (approx.)  The model (height 5'8) is wearing a size S",
-        "category": "Myntra",
-        "brand": "Nayo",
-        "countInStock": 100,
-        "numReviews": 4113,
-        "rating": 4,
-        "image": "images/d2407657-1f04-4d13-9f52-9e134050489b1625905793495-Nayo-Women-Red-Ethnic-Motifs-Printed-Empire-Pure-Cotton-Kurt-1.jpg"
-    },
-    {
-        "name": "AHIKA Women Black & Green Printed Straight Kurta",
-        "price": 1350.0,
-        "description": "Black and green printed straight kurta, has a nitched round neck, three-quarter sleeves, straight hem, side slitsMaterial: Cotton Machine WashThe model (height 5'8\") is wearing a size S",
-        "category": "Myntra",
-        "brand": "AHIKA",
-        "countInStock": 100,
-        "numReviews": 21274,
-        "rating": 4,
-        "image": "images/30b0017d-7e72-4d40-9633-ef78d01719741575541717470-AHIKA-Women-Black--Green-Printed-Straight-Kurta-990157554171-1.jpg"
+        "image": "/images/b8c4f90f-683c-48d2-b8ac-19891a87c0651638428628378KurtaSets1.jpg"
     },
     {
         "name": "Khushal K Women Black Ethnic Motifs Printed Kurta with Palazzos & With Dupatta",
@@ -63,7 +41,7 @@
         "countInStock": 100,
         "numReviews": 4522,
         "rating": 4,
-        "image": "images/b0eb9426-adf2-4802-a6b3-5dbacbc5f2511643971561167KhushalKWomenBlackEthnicMotifsAngrakhaBeadsandStonesKurtawit7.jpg"
+        "image": "/images/b0eb9426-adf2-4802-a6b3-5dbacbc5f2511643971561167KhushalKWomenBlackEthnicMotifsAngrakhaBeadsandStonesKurtawit7.jpg"
     },
     {
         "name": "InWeave Women Orange Solid Kurta with Palazzos & Floral Print Dupatta",
@@ -74,7 +52,7 @@
         "countInStock": 100,
         "numReviews": 1081,
         "rating": 4,
-        "image": "images/17ab2ac8-2e60-422d-9d20-2527415932361640754214931-STRAPPY-SET-IN-ORANGE-WITH-ORGANZA-DUPATTA-5961640754214349-2.jpg"
+        "image": "/images/17ab2ac8-2e60-422d-9d20-2527415932361640754214931-STRAPPY-SET-IN-ORANGE-WITH-ORGANZA-DUPATTA-5961640754214349-2.jpg"
     },
     {
         "name": "Anubhutee Women Navy Blue Ethnic Motifs Embroidered Thread Work Kurta with Trousers & With Dupatta",
@@ -85,7 +63,7 @@
         "countInStock": 100,
         "numReviews": 1752,
         "rating": 4,
-        "image": "images/b8c4f90f-683c-48d2-b8ac-19891a87c0651638428628378KurtaSets1.jpg"
+        "image": "/images/b8c4f90f-683c-48d2-b8ac-19891a87c0651638428628378KurtaSets1.jpg"
     },
     {
         "name": "Nayo Women Red Floral Printed Kurta With Trouser & Dupatta",
@@ -96,7 +74,7 @@
         "countInStock": 100,
         "numReviews": 4113,
         "rating": 4,
-        "image": "images/d2407657-1f04-4d13-9f52-9e134050489b1625905793495-Nayo-Women-Red-Ethnic-Motifs-Printed-Empire-Pure-Cotton-Kurt-1.jpg"
+        "image": "/images/d2407657-1f04-4d13-9f52-9e134050489b1625905793495-Nayo-Women-Red-Ethnic-Motifs-Printed-Empire-Pure-Cotton-Kurt-1.jpg"
     },
     {
         "name": "AHIKA Women Black & Green Printed Straight Kurta",
@@ -107,7 +85,7 @@
         "countInStock": 100,
         "numReviews": 21274,
         "rating": 4,
-        "image": "images/30b0017d-7e72-4d40-9633-ef78d01719741575541717470-AHIKA-Women-Black--Green-Printed-Straight-Kurta-990157554171-1.jpg"
+        "image": "/images/30b0017d-7e72-4d40-9633-ef78d01719741575541717470-AHIKA-Women-Black--Green-Printed-Straight-Kurta-990157554171-1.jpg"
     },
     {
         "name": "Libas Women Navy Blue Pure Cotton Floral Print Kurta with Palazzos & Dupatta",
@@ -118,7 +96,7 @@
         "countInStock": 100,
         "numReviews": 8695,
         "rating": 4,
-        "image": "images/5fba9594-3301-4881-ba56-d56a44570e831654747998773LibasWomenNavyBluePureCottonFloralPrintKurtawithPalazzosDupa1.jpg"
+        "image": "/images/5fba9594-3301-4881-ba56-d56a44570e831654747998773LibasWomenNavyBluePureCottonFloralPrintKurtawithPalazzosDupa1.jpg"
     },
     {
         "name": "Ahalyaa Women Beige Floral Printed Regular Gotta Patti Kurta with Palazzos & With Dupatta",
@@ -129,7 +107,7 @@
         "countInStock": 100,
         "numReviews": 1741,
         "rating": 4,
-        "image": "images/e6b90907-a613-45e1-9b2e-988caaba36581645010770505-Ahalyaa-Women-Beige-Floral-Printed-Regular-Gotta-Patti-Kurta-1.jpg"
+        "image": "/images/e6b90907-a613-45e1-9b2e-988caaba36581645010770505-Ahalyaa-Women-Beige-Floral-Printed-Regular-Gotta-Patti-Kurta-1.jpg"
     },
     {
         "name": "Anouk Women Yellow & White Printed Kurta with Palazzos",
@@ -140,7 +118,7 @@
         "countInStock": 100,
         "numReviews": 7012,
         "rating": 4,
-        "image": "images/5ea707f4-8491-4d1c-b520-86a1cff4c86e1644841891629-Anouk-Women-Yellow--White-Printed-Kurta-with-Palazzos-706164-1.jpg"
+        "image": "/images/5ea707f4-8491-4d1c-b520-86a1cff4c86e1644841891629-Anouk-Women-Yellow--White-Printed-Kurta-with-Palazzos-706164-1.jpg"
     },
     {
         "name": "Khushal K Women Green & Pink Printed Pure Cotton Kurta with Palazzos & Dupatta",
@@ -151,7 +129,7 @@
         "countInStock": 100,
         "numReviews": 1590,
         "rating": 4,
-        "image": "images/11b842c5-d9d4-4fee-baa2-0972e3a673641643970773675KhushalKWomenGreenEthnicMotifsPrintedEmpireGottaPattiPureCot7.jpg"
+        "image": "/images/11b842c5-d9d4-4fee-baa2-0972e3a673641643970773675KhushalKWomenGreenEthnicMotifsPrintedEmpireGottaPattiPureCot7.jpg"
     },
     {
         "name": "Libas Floral Bliss Side Pocket Cotton Kurta Set",
@@ -162,117 +140,7 @@
         "countInStock": 100,
         "numReviews": 12568,
         "rating": 4,
-        "image": "images/b783aef9-c902-462e-af73-de159bfd011c1565256752191-Libas-Women-Kurta-Sets-2081565256750830-1.jpg"
-    },
-    {
-        "name": "Khushal K Women Black Ethnic Motifs Printed Kurta with Palazzos & With Dupatta",
-        "price": 5099.0,
-        "description": "Black printed Kurta with Palazzos with dupatta    Kurta design:     Ethnic motifs printed   Anarkali shape   Regular style   Mandarin collar,  three-quarter regular sleeves   Calf length with flared hem   Viscose rayon machine weave fabric     Palazzos design:     Printed Palazzos   Elasticated waistband   Slip-on closure  Dupatta Length 2.43 meters Width:&nbsp;88 cmThe model (height 5'8) is wearing a size S100% RayonMachine wash",
-        "category": "Myntra",
-        "brand": "Khushal K",
-        "countInStock": 100,
-        "numReviews": 4522,
-        "rating": 4,
-        "image": "images/b0eb9426-adf2-4802-a6b3-5dbacbc5f2511643971561167KhushalKWomenBlackEthnicMotifsAngrakhaBeadsandStonesKurtawit7.jpg"
-    },
-    {
-        "name": "InWeave Women Orange Solid Kurta with Palazzos & Floral Print Dupatta",
-        "price": 5899.0,
-        "description": "Orange solid Kurta with Palazzos with dupattaKurta design: SolidA-line shapeRegular styleSquare neck, sleeveless shoulder strapsCalf length with straight hemViscose rayon machine weave fabricPalazzos design: Solid PalazzosElasticated waistbandZip closureDupatta Design:Floral PrintedKurta Fabric: Viscose rayonBottom Fabric:&nbsp;Viscose rayonDupatta Fabric: OrganzaHand washThe model (height 5'8) is wearing a size S",
-        "category": "Myntra",
-        "brand": "InWeave",
-        "countInStock": 100,
-        "numReviews": 1081,
-        "rating": 4,
-        "image": "images/17ab2ac8-2e60-422d-9d20-2527415932361640754214931-STRAPPY-SET-IN-ORANGE-WITH-ORGANZA-DUPATTA-5961640754214349-2.jpg"
-    },
-    {
-        "name": "Anubhutee Women Navy Blue Ethnic Motifs Embroidered Thread Work Kurta with Trousers & With Dupatta",
-        "price": 4899.0,
-        "description": "Navy blue embroidered Kurta with Trousers with dupatta    Kurta design:     Ethnic motifs embroidered   A-line shape   Regular style   Round neck,  three-quarter no sleeves   Thread work detail   Above knee length with flared hem   Viscose rayon machine weave fabric     Trousers design:     Printed Trousers   Elasticated waistband   Slip-on closure  Viscose rayonHand WashThe model (height 5'8) is wearing a size S",
-        "category": "Myntra",
-        "brand": "Anubhutee",
-        "countInStock": 100,
-        "numReviews": 1752,
-        "rating": 4,
-        "image": "images/b8c4f90f-683c-48d2-b8ac-19891a87c0651638428628378KurtaSets1.jpg"
-    },
-    {
-        "name": "Nayo Women Red Floral Printed Kurta With Trouser & Dupatta",
-        "price": 3699.0,
-        "description": "Red printed kurta with trouser and dupattaKurta design:Printed kurtaAnarkali designRound neckThree-quarter sleevesFlared hemCalf lengthTrouser design:Printed trousersElasticated waistbandSlip-on closureDupatta design:White and red printed dupattaTop fabric:  Pure Cotton  Bottom fabric:  Pure Cotton  Dupatta fabric:  Cotton Blend  Hand washDupatta length: 2 metres (approx.)  The model (height 5'8) is wearing a size S",
-        "category": "Myntra",
-        "brand": "Nayo",
-        "countInStock": 100,
-        "numReviews": 4113,
-        "rating": 4,
-        "image": "images/d2407657-1f04-4d13-9f52-9e134050489b1625905793495-Nayo-Women-Red-Ethnic-Motifs-Printed-Empire-Pure-Cotton-Kurt-1.jpg"
-    },
-    {
-        "name": "AHIKA Women Black & Green Printed Straight Kurta",
-        "price": 1350.0,
-        "description": "Black and green printed straight kurta, has a nitched round neck, three-quarter sleeves, straight hem, side slitsMaterial: Cotton Machine WashThe model (height 5'8\") is wearing a size S",
-        "category": "Myntra",
-        "brand": "AHIKA",
-        "countInStock": 100,
-        "numReviews": 21274,
-        "rating": 4,
-        "image": "images/30b0017d-7e72-4d40-9633-ef78d01719741575541717470-AHIKA-Women-Black--Green-Printed-Straight-Kurta-990157554171-1.jpg"
-    },
-    {
-        "name": "Libas Women Navy Blue Pure Cotton Floral Print Kurta with Palazzos & Dupatta",
-        "price": 3599.0,
-        "description": "Stately and versatile, this kurta set will be your top choice. Its eye-catching printed kurta comes with snug printed palazzos and a gorgeous printed dupatta for added appeal. Kurta design: Floral printedAnarkali shapePleated styleKeyhole neck, three-quarter regular sleevesGotta patti detailCalf length with flared hemPure cotton machine weave fabricPalazzos design: Printed PalazzosPartially elasticated waistbandSlip-on closure2 pocketsDupatta DesignPrinted dupattaTop fabric:  Pure Cotton  Bottom fabric:  Pure Cotton  Dupatta fabric:  Pure Cotton  Machine washThe model (height 5'8) is wearing a size S",
-        "category": "Myntra",
-        "brand": "Libas",
-        "countInStock": 100,
-        "numReviews": 8695,
-        "rating": 4,
-        "image": "images/5fba9594-3301-4881-ba56-d56a44570e831654747998773LibasWomenNavyBluePureCottonFloralPrintKurtawithPalazzosDupa1.jpg"
-    },
-    {
-        "name": "Ahalyaa Women Beige Floral Printed Regular Gotta Patti Kurta with Palazzos & With Dupatta",
-        "price": 6000.0,
-        "description": "When in doubt, rock this simple yet stylish kurta set at any traditional function. It comes with an elegant printed kurta and snug printed palazzos for comfort.&nbsp;Kurta:Classy beige toneAttractive round neckLong regular sleevesCalf lengthPoly crepe, machine washPalazzos:Printed palazzosPartially elasticated waistPoly crepe, machine washTassels borderPrinted patternNet, machine washTrend AlertSymbols of freshness and beauty, romantic florals in vibrant hues and prints have been a mainstay in fashion for decades. Right from delicate all-over patterns to abstract and oversized motifs, romantic florals lend any garment a feminine touch.Top fabric:  Poly Crepe  Bottom fabric:  Poly Crepe  Dupatta fabric:  Net  Machine washThe model (height 5'8) is wearing a size S",
-        "category": "Myntra",
-        "brand": "Ahalyaa",
-        "countInStock": 100,
-        "numReviews": 1741,
-        "rating": 4,
-        "image": "images/e6b90907-a613-45e1-9b2e-988caaba36581645010770505-Ahalyaa-Women-Beige-Floral-Printed-Regular-Gotta-Patti-Kurta-1.jpg"
-    },
-    {
-        "name": "Anouk Women Yellow & White Printed Kurta with Palazzos",
-        "price": 1999.0,
-        "description": "Yellow and white printed kurta with palazzos Yellow and white straight knee length kurta, has a round neck, three-quarter sleeves, side slitsYellow and white Printed palazzos, has partially elasticated waistbandThe model (height 5'8\") is wearing a size STop fabric: Pure CottonBottom fabric: Pure CottonMachine-wash",
-        "category": "Myntra",
-        "brand": "Anouk",
-        "countInStock": 100,
-        "numReviews": 7012,
-        "rating": 4,
-        "image": "images/5ea707f4-8491-4d1c-b520-86a1cff4c86e1644841891629-Anouk-Women-Yellow--White-Printed-Kurta-with-Palazzos-706164-1.jpg"
-    },
-    {
-        "name": "Khushal K Women Green & Pink Printed Pure Cotton Kurta with Palazzos & Dupatta",
-        "price": 5299.0,
-        "description": "Green &amp; pink printed kurta with palazzos &amp; dupattaKurta design: Ethnic motifs printedA-line shapeRegular&nbsp; styleRound neck, three-quarter regular sleevesGotta patti detailCalf length with flared hemPure cotton machine weave fabricPalazzos design: Printed PalazzosElasticated waistbandSlip-on closureComes with pink solid dupattaDupatta: 2.4 x 0.8 metersThe model (height 5'8) is wearing a size STop: 100% CottonBottom: 100% CottonDupatta: Silk ChiffonMachine wash",
-        "category": "Myntra",
-        "brand": "Khushal K",
-        "countInStock": 100,
-        "numReviews": 1590,
-        "rating": 4,
-        "image": "images/11b842c5-d9d4-4fee-baa2-0972e3a673641643970773675KhushalKWomenGreenEthnicMotifsPrintedEmpireGottaPattiPureCot7.jpg"
-    },
-    {
-        "name": "Libas Floral Bliss Side Pocket Cotton Kurta Set",
-        "price": 2499.0,
-        "description": "This set includes: Kurta and TrousersA smart piece with a floral trend signature, the contemporary styling components ups the exclusivity of this set. The shades of taffy pink beautifully contrasts with the luxe blue floral motifs, while the structured silhouette gives it a casual edge. Design, comfort and a smart overall look, this set is elegance personified!Kurta:All over floral print, hook and eye keyhole neck, short sleeves, calf length with tapered slits, smart styling with side pocketTrousers:Variegated grainy stripes in crop-cut with elastic&nbsp;back, slip-on styling, 2 pocketsPure cotton, Machine-washThe model (height 5'8\") is wearing a size S",
-        "category": "Myntra",
-        "brand": "Libas",
-        "countInStock": 100,
-        "numReviews": 12568,
-        "rating": 4,
-        "image": "images/b783aef9-c902-462e-af73-de159bfd011c1565256752191-Libas-Women-Kurta-Sets-2081565256750830-1.jpg"
+        "image": "/images/b783aef9-c902-462e-af73-de159bfd011c1565256752191-Libas-Women-Kurta-Sets-2081565256750830-1.jpg"
     },
     {
         "name": "Varanga Women Mustard Yellow Floral Yoke Embroidered Straight Kurta",
@@ -283,7 +151,7 @@
         "countInStock": 100,
         "numReviews": 2426,
         "rating": 4,
-        "image": "images/bb925efb-80d9-4cb6-838c-df86f1ba3c3e1637570416652-Varanga-Women-Mustard-Yellow-Floral-Yoke-Embroidered-Straigh-1.jpg"
+        "image": "/images/bb925efb-80d9-4cb6-838c-df86f1ba3c3e1637570416652-Varanga-Women-Mustard-Yellow-Floral-Yoke-Embroidered-Straigh-1.jpg"
     },
     {
         "name": "AHIKA Women Teal Ethnic Motifs Yoke Design Kurta with Trousers & With Dupatta",
@@ -294,7 +162,7 @@
         "countInStock": 100,
         "numReviews": 1268,
         "rating": 4,
-        "image": "images/7d7656e5-e37d-4f61-9407-98bd341ca8f91640261029836KurtaSets1.jpg"
+        "image": "/images/7d7656e5-e37d-4f61-9407-98bd341ca8f91640261029836KurtaSets1.jpg"
     },
     {
         "name": "Vishudh Women Navy Blue Floral Printed Regular Pure Cotton Kurta with Palazzos",
@@ -305,7 +173,7 @@
         "countInStock": 100,
         "numReviews": 2676,
         "rating": 4,
-        "image": "images/43d65352-9853-498e-95a4-be514df0be901559294212152-Vishudh--Straight-Kurta-With-Crop-Palazzo-7041559294209627-1.jpg"
+        "image": "/images/43d65352-9853-498e-95a4-be514df0be901559294212152-Vishudh--Straight-Kurta-With-Crop-Palazzo-7041559294209627-1.jpg"
     },
     {
         "name": "Anouk Women Peach-Coloured Yoke Design Mirror-Work Kurta with Trousers & With Dupatta",
@@ -316,7 +184,7 @@
         "countInStock": 100,
         "numReviews": 904,
         "rating": 4,
-        "image": "images/4a37718e-8942-479c-a7ea-0b074d53ee4b1650456566424AnoukWomenPeach-ColouredYokeDesignMirror-WorkKurtawithTrouse1.jpg"
+        "image": "/images/4a37718e-8942-479c-a7ea-0b074d53ee4b1650456566424AnoukWomenPeach-ColouredYokeDesignMirror-WorkKurtawithTrouse1.jpg"
     },
     {
         "name": "Varanga Women Yellow & Peach-Coloured Floral Screen Printed Gotta Patti Straight Kurta",
@@ -327,7 +195,7 @@
         "countInStock": 100,
         "numReviews": 1811,
         "rating": 4,
-        "image": "images/d57adb8b-e792-477a-8801-6ea570cd88ef1629800170287VarangaWomenYellowFloralPrintedKeyholeNeckThreadWorkKurta1.jpg"
+        "image": "/images/d57adb8b-e792-477a-8801-6ea570cd88ef1629800170287VarangaWomenYellowFloralPrintedKeyholeNeckThreadWorkKurta1.jpg"
     },
     {
         "name": "AHIKA Floral Print Straight Cotton Kurta With Keyhole Neck",
@@ -338,7 +206,7 @@
         "countInStock": 100,
         "numReviews": 16219,
         "rating": 4,
-        "image": "images/c35d059d-a357-4863-bcb1-eacd8c988fb01572422803188-AHIKA-Women-Kurtas-8841572422802083-1.jpg"
+        "image": "/images/c35d059d-a357-4863-bcb1-eacd8c988fb01572422803188-AHIKA-Women-Kurtas-8841572422802083-1.jpg"
     },
     {
         "name": "Anouk Women Black & Orange Bandhani Printed Kurta",
@@ -349,7 +217,7 @@
         "countInStock": 100,
         "numReviews": 1086,
         "rating": 4,
-        "image": "images/3a61f2ab-7905-4efc-84e8-df1f74fa08201623409397327-Anouk-Women-Kurtas-1031623409396642-1.jpg"
+        "image": "/images/3a61f2ab-7905-4efc-84e8-df1f74fa08201623409397327-Anouk-Women-Kurtas-1031623409396642-1.jpg"
     },
     {
         "name": "Libas Women Blue Embroidered Panelled Kurta with Churidar & With Dupatta",
@@ -360,7 +228,7 @@
         "countInStock": 100,
         "numReviews": 544,
         "rating": 4,
-        "image": "images/0d391a8b-ea8c-4258-86d5-a99b9f3f34201630040200642-Libas-Women-Kurta-Sets-5941630040199555-1.jpg"
+        "image": "/images/0d391a8b-ea8c-4258-86d5-a99b9f3f34201630040200642-Libas-Women-Kurta-Sets-5941630040199555-1.jpg"
     },
     {
         "name": "JAIPURI BUNAAI Women Blue & Orange Ethnic Motifs Printed Kurta With Trousers & Dupatta",
@@ -371,7 +239,7 @@
         "countInStock": 100,
         "numReviews": 1576,
         "rating": 4,
-        "image": "images/d6b74d2b-825f-4b34-af01-9d6336045bdb1624612149604-1.jpg"
+        "image": "/images/d6b74d2b-825f-4b34-af01-9d6336045bdb1624612149604-1.jpg"
     },
     {
         "name": "KALINI Women Sea Green Floral Yoke Design Pleated Pure Cotton Top with Skirt & With Dupatta",
@@ -382,7 +250,7 @@
         "countInStock": 100,
         "numReviews": 242,
         "rating": 4,
-        "image": "images/07adcdf7-eee1-4077-b55c-f6608caaa6f01647663614971KALINIWomenSeaGreenFloralYokeDesignPleatedPureCottonTopwithS4.jpg"
+        "image": "/images/07adcdf7-eee1-4077-b55c-f6608caaa6f01647663614971KALINIWomenSeaGreenFloralYokeDesignPleatedPureCottonTopwithS4.jpg"
     },
     {
         "name": "Indo Era Women Blue & Green Printed Kurta with Palazzos & Dupatta",
@@ -393,7 +261,7 @@
         "countInStock": 100,
         "numReviews": 1717,
         "rating": 4,
-        "image": "images/6bc412bb-3cc6-4def-8833-f5580b0cc06a1617706648250-Indo-Era-Green-Printed-Straight-Kurta-Palazzo-With-Dupatta-S-1.jpg"
+        "image": "/images/6bc412bb-3cc6-4def-8833-f5580b0cc06a1617706648250-Indo-Era-Green-Printed-Straight-Kurta-Palazzo-With-Dupatta-S-1.jpg"
     },
     {
         "name": "Anouk Women Pink & Blue Ethnic Motifs Embroidered Kurta with Trousers & With Dupatta",
@@ -404,7 +272,7 @@
         "countInStock": 100,
         "numReviews": 273,
         "rating": 4,
-        "image": "images/b1bd0687-7533-428d-8258-d29c793fc4541631092430795-Anouk-Women-Kurta-Sets-941631092429795-1.jpg"
+        "image": "/images/b1bd0687-7533-428d-8258-d29c793fc4541631092430795-Anouk-Women-Kurta-Sets-941631092429795-1.jpg"
     },
     {
         "name": "Ishin Women Red & Orange Bandhani Print Anarkali Kurta",
@@ -415,7 +283,7 @@
         "countInStock": 100,
         "numReviews": 2391,
         "rating": 4,
-        "image": "images/d1a4cc48-ff90-47ab-ad36-800743e83d641605767381033-Ishin-Womens-Rayon-Red-Bandhani-Print-Embellished-Anarkali-K-1.jpg"
+        "image": "/images/d1a4cc48-ff90-47ab-ad36-800743e83d641605767381033-Ishin-Womens-Rayon-Red-Bandhani-Print-Embellished-Anarkali-K-1.jpg"
     },
     {
         "name": "Libas Women Maroon Printed Kurta with Palazzos & Dupatta",
@@ -426,7 +294,7 @@
         "countInStock": 100,
         "numReviews": 1243,
         "rating": 4,
-        "image": "images/195aae75-105f-44f3-95d8-04c04501de851617598475258-1.jpg"
+        "image": "/images/195aae75-105f-44f3-95d8-04c04501de851617598475258-1.jpg"
     },
     {
         "name": "Nayo Women Pink & Off-White Floral Screen Print A-Line Pure Cotton Kurta Set With Dupatta",
@@ -437,7 +305,7 @@
         "countInStock": 100,
         "numReviews": 1247,
         "rating": 4,
-        "image": "images/3d4648ec-8534-4333-ba00-71f016a7889c1621410078449-1.jpg"
+        "image": "/images/3d4648ec-8534-4333-ba00-71f016a7889c1621410078449-1.jpg"
     },
     {
         "name": "Virah Fashion Women Lime Green Embroidered Layered Thread Work Top with Sharara & With Dupatta",
@@ -448,7 +316,7 @@
         "countInStock": 100,
         "numReviews": 20,
         "rating": 4,
-        "image": "images/4df23875-c0d5-4e8d-bf0e-b1a6e39fd6581655970565935VirahFashionWomenLimeGreenEmbroideredLayeredThreadWorkTopwit1.jpg"
+        "image": "/images/4df23875-c0d5-4e8d-bf0e-b1a6e39fd6581655970565935VirahFashionWomenLimeGreenEmbroideredLayeredThreadWorkTopwit1.jpg"
     },
     {
         "name": "Indo Era Folksy Floral Screen Print Cotton Kurta Set",
@@ -459,7 +327,7 @@
         "countInStock": 100,
         "numReviews": 7031,
         "rating": 4,
-        "image": "images/9b7f8d3f-e48f-4618-8eac-32cee1a0d4111581757541745-Indo-Era-Maroon-Floral-Printed-A-Line-Kurta-with-Palazzo-Set-1.jpg"
+        "image": "/images/9b7f8d3f-e48f-4618-8eac-32cee1a0d4111581757541745-Indo-Era-Maroon-Floral-Printed-A-Line-Kurta-with-Palazzo-Set-1.jpg"
     },
     {
         "name": "Kvsfab Women Pink Floral Embroidered Gotta Patti Kurta with Skirt & With Dupatta",
@@ -470,7 +338,7 @@
         "countInStock": 100,
         "numReviews": 253,
         "rating": 4,
-        "image": "images/ee378dc7-1065-4ae0-8cb6-4afb40cc27581640597727510-KVS-Fab-Pink-Rayon-Foli-Print--Stitched-Embroidery--Kurta-Se-1.jpg"
+        "image": "/images/ee378dc7-1065-4ae0-8cb6-4afb40cc27581640597727510-KVS-Fab-Pink-Rayon-Foli-Print--Stitched-Embroidery--Kurta-Se-1.jpg"
     },
     {
         "name": "Anouk Women Teal Blue & Pink Yoke Design Regular Kurta with Trousers & Dupatta",
@@ -481,7 +349,7 @@
         "countInStock": 100,
         "numReviews": 228,
         "rating": 4,
-        "image": "images/68ccde4c-f0fe-487d-9fa2-0aa4231a7dcf1631170046519-Anouk-Women-Kurta-Sets-801631170045543-1.jpg"
+        "image": "/images/68ccde4c-f0fe-487d-9fa2-0aa4231a7dcf1631170046519-Anouk-Women-Kurta-Sets-801631170045543-1.jpg"
     },
     {
         "name": "AHIKA Women Green & Mustard Yellow Printed Straight Kurta",
@@ -492,7 +360,7 @@
         "countInStock": 100,
         "numReviews": 6504,
         "rating": 4,
-        "image": "images/3573b361-8560-4aad-bcf6-265ad635ef581572423341928-AHIKA-Women-Kurtas-2491572423340722-1.jpg"
+        "image": "/images/3573b361-8560-4aad-bcf6-265ad635ef581572423341928-AHIKA-Women-Kurtas-2491572423340722-1.jpg"
     },
     {
         "name": "Ahalyaa Women Maroon & Gold Printed Kurti with Sharara & Dupatta",
@@ -503,7 +371,7 @@
         "countInStock": 100,
         "numReviews": 3724,
         "rating": 4,
-        "image": "images/fb8fc504-76cd-4d6a-a16e-e20bdc7bebe41611204555225-Ahalyaa-Women-Maroon--Gold-Printed-Kurti-with-Sharara--Dupat-1.jpg"
+        "image": "/images/fb8fc504-76cd-4d6a-a16e-e20bdc7bebe41611204555225-Ahalyaa-Women-Maroon--Gold-Printed-Kurti-with-Sharara--Dupat-1.jpg"
     },
     {
         "name": "AASI - HOUSE OF NAYO Women Black & Mustard Yellow Solid Kurta with Trousers & Dupatta",
@@ -514,7 +382,7 @@
         "countInStock": 100,
         "numReviews": 5652,
         "rating": 4,
-        "image": "images/5f44fbff-658c-40f2-ae17-4ae52b7381e31557297223910-AASI---HOUSE-OF-NAYO-Women-Black--Mustard-Solid-Kurta-with-T-1.jpg"
+        "image": "/images/5f44fbff-658c-40f2-ae17-4ae52b7381e31557297223910-AASI---HOUSE-OF-NAYO-Women-Black--Mustard-Solid-Kurta-with-T-1.jpg"
     },
     {
         "name": "Anubhutee Women Teal Ethnic Motifs Printed Empire Thread Work Pure Cotton Kurta with Trousers & With Dupatta",
@@ -525,7 +393,7 @@
         "countInStock": 100,
         "numReviews": 201,
         "rating": 4,
-        "image": "images/8fa4f922-c4fc-4c4d-8aad-8c28ece5ff2e1638428914896KurtaSets1.jpg"
+        "image": "/images/8fa4f922-c4fc-4c4d-8aad-8c28ece5ff2e1638428914896KurtaSets1.jpg"
     },
     {
         "name": "Anouk Women Red Floral Print A-Line Kurta",
@@ -536,7 +404,7 @@
         "countInStock": 100,
         "numReviews": 2004,
         "rating": 4,
-        "image": "images/ed5edf7d-db8e-4c05-bac6-3bd4979418a21611738222844-Anouk-Women-Red-Floral-Print-A-Line-Kurta-6991611738221560-1.jpg"
+        "image": "/images/ed5edf7d-db8e-4c05-bac6-3bd4979418a21611738222844-Anouk-Women-Red-Floral-Print-A-Line-Kurta-6991611738221560-1.jpg"
     },
     {
         "name": "KALINI Women Fluorescent Green Embroidered Pure Cotton Salwar suit",
@@ -547,7 +415,7 @@
         "countInStock": 100,
         "numReviews": 12,
         "rating": 4,
-        "image": "images/58ff6c28-b599-4a63-9627-d9cc7a35966c1656932528424KALINIWomenFluorescentGreenEthnicMotifsEmbroideredPleatedPur1.jpg"
+        "image": "/images/58ff6c28-b599-4a63-9627-d9cc7a35966c1656932528424KALINIWomenFluorescentGreenEthnicMotifsEmbroideredPleatedPur1.jpg"
     },
     {
         "name": "Indi INSIDE Women Pink Ethnic Motifs Block Printed Anarkali Kurta",
@@ -558,7 +426,7 @@
         "countInStock": 100,
         "numReviews": 94,
         "rating": 4,
-        "image": "images/548b3242-c4b0-4a01-a7c8-dbd25721ed101653557566916BlockPrintedPinkKurta1.jpg"
+        "image": "/images/548b3242-c4b0-4a01-a7c8-dbd25721ed101653557566916BlockPrintedPinkKurta1.jpg"
     },
     {
         "name": "Anouk Women Mustard Yellow & Red Geometric Printed Kurta",
@@ -569,7 +437,7 @@
         "countInStock": 100,
         "numReviews": 450,
         "rating": 4,
-        "image": "images/9fdeb696-bce1-4791-aa1a-3dbfe5e9a5c51630583727539HERENOWMenPinkWhiteTypographyPrintedOrganicCottonT-shirtKurt1.jpg"
+        "image": "/images/9fdeb696-bce1-4791-aa1a-3dbfe5e9a5c51630583727539HERENOWMenPinkWhiteTypographyPrintedOrganicCottonT-shirtKurt1.jpg"
     },
     {
         "name": "Varanga Women Red Bandhani Printed Gotta Patti Kurta",
@@ -580,7 +448,7 @@
         "countInStock": 100,
         "numReviews": 452,
         "rating": 4,
-        "image": "images/a5a4e093-dfd6-4a1b-8c1f-c7b46f27678d1632833511024VarangaWomenRedEthnicMotifsPrintedGottaPattiKurta1.jpg"
+        "image": "/images/a5a4e093-dfd6-4a1b-8c1f-c7b46f27678d1632833511024VarangaWomenRedEthnicMotifsPrintedGottaPattiKurta1.jpg"
     },
     {
         "name": "KALINI Women Pink Floral Embroidered Layered Gotta Patti Kurti with Sharara & With Dupatta",
@@ -591,7 +459,7 @@
         "countInStock": 100,
         "numReviews": 175,
         "rating": 4,
-        "image": "images/6bd65bc0-6a32-4c55-9480-0f6e4c0382231653924747273KALINIAssamicaWomenPinkDyedKurtaPrintedShararawithDupatta1.jpg"
+        "image": "/images/6bd65bc0-6a32-4c55-9480-0f6e4c0382231653924747273KALINIAssamicaWomenPinkDyedKurtaPrintedShararawithDupatta1.jpg"
     },
     {
         "name": "DIVYANK Women Navy Blue & Grey Ethnic Motifs Printed Mirror Work Kurta with Palazzos",
@@ -602,7 +470,7 @@
         "countInStock": 100,
         "numReviews": 1543,
         "rating": 4,
-        "image": "images/ae87dd98-3d80-449b-bf62-3834797d9a561632315919781DIVYANKWomenNavyBlueEthnicMotifsPrintedRegularMirrorWorkKurt1.jpg"
+        "image": "/images/ae87dd98-3d80-449b-bf62-3834797d9a561632315919781DIVYANKWomenNavyBlueEthnicMotifsPrintedRegularMirrorWorkKurt1.jpg"
     },
     {
         "name": "Libas Women Lavender Floral Printed Pure Cotton Kurta Set with Dupatta",
@@ -613,7 +481,7 @@
         "countInStock": 100,
         "numReviews": 87,
         "rating": 4,
-        "image": "images/393262fb-2be4-4945-b3e8-a64336da74f01643629068794-Libas-Women-Kurta-Sets-3571643629067890-1.jpg"
+        "image": "/images/393262fb-2be4-4945-b3e8-a64336da74f01643629068794-Libas-Women-Kurta-Sets-3571643629067890-1.jpg"
     },
     {
         "name": "Sangria Women Beige & Black Pure Cotton Printed Kurta with Salwar",
@@ -624,7 +492,7 @@
         "countInStock": 100,
         "numReviews": 699,
         "rating": 4,
-        "image": "images/1db98d09-8e2a-49b6-9521-d59d0764aa621614341754175-Sangria-Women-Kurta-Sets-9031614341752071-1.jpg"
+        "image": "/images/1db98d09-8e2a-49b6-9521-d59d0764aa621614341754175-Sangria-Women-Kurta-Sets-9031614341752071-1.jpg"
     },
     {
         "name": "Sangria Women Pink & Golden Printed Pure Cotton Kurta with Trousers",
@@ -635,7 +503,7 @@
         "countInStock": 100,
         "numReviews": 372,
         "rating": 4,
-        "image": "images/bce63f51-fa78-4456-a4ce-85d193628e761599199586248-Sangria-Women-Pink--Gold-Toned-Printed-Kurta-with-Trousers-8-1.jpg"
+        "image": "/images/bce63f51-fa78-4456-a4ce-85d193628e761599199586248-Sangria-Women-Pink--Gold-Toned-Printed-Kurta-with-Trousers-8-1.jpg"
     },
     {
         "name": "Libas Women Beige & Mustard Yellow Zari Woven Design Straight Kurta Trousers Dupatta",
@@ -646,7 +514,7 @@
         "countInStock": 100,
         "numReviews": 232,
         "rating": 5,
-        "image": "images/2dd80782-75be-496b-8bac-2978541418161647846846121-Libas-Women-Kurta-Sets-7321647846845273-1.jpg"
+        "image": "/images/2dd80782-75be-496b-8bac-2978541418161647846846121-Libas-Women-Kurta-Sets-7321647846845273-1.jpg"
     },
     {
         "name": "Shae by SASSAFRAS Women Blue & Off-White Printed Anarkali Kurta",
@@ -657,7 +525,7 @@
         "countInStock": 100,
         "numReviews": 5046,
         "rating": 4,
-        "image": "images/c4ffb5ae-4483-4e2c-ba02-c38e2adb11361650283630240ShaebySASSAFRASWomenBlueOff-WhitePrintedAnarkaliKurta1.jpg"
+        "image": "/images/c4ffb5ae-4483-4e2c-ba02-c38e2adb11361650283630240ShaebySASSAFRASWomenBlueOff-WhitePrintedAnarkaliKurta1.jpg"
     },
     {
         "name": "Varanga Floral Net I-Spy Lace Kurta Set",
@@ -668,7 +536,7 @@
         "countInStock": 100,
         "numReviews": 54,
         "rating": 4,
-        "image": "images/59d4aa7a-f05c-4eda-b796-a45078f798371645012473502-Varanga-Magenta-Net-Strap-Straight-Kurta-With-Flared-Sharara-1.jpg"
+        "image": "/images/59d4aa7a-f05c-4eda-b796-a45078f798371645012473502-Varanga-Magenta-Net-Strap-Straight-Kurta-With-Flared-Sharara-1.jpg"
     },
     {
         "name": "Myshka Women Pink Floral Printed Pure Cotton Kurta with Sharara & Dupatta",
@@ -679,7 +547,7 @@
         "countInStock": 100,
         "numReviews": 78,
         "rating": 4,
-        "image": "images/26bea60e-1753-4bf1-8a9e-96f060de329d1644644643001MyshkaWomenPinkEthnicMotifsEmbroideredLayeredPureCottonKurti1.jpg"
+        "image": "/images/26bea60e-1753-4bf1-8a9e-96f060de329d1644644643001MyshkaWomenPinkEthnicMotifsEmbroideredLayeredPureCottonKurti1.jpg"
     },
     {
         "name": "Anouk Women Pink & Gold-Toned Ethnic Motifs Printed Gotta Patti Kurta",
@@ -690,7 +558,7 @@
         "countInStock": 100,
         "numReviews": 72,
         "rating": 4,
-        "image": "images/64e6b083-6b6f-4c71-bf89-4a4483d401e01629350582004-Anouk-Women-Kurtas-6181629350581610-6.jpg"
+        "image": "/images/64e6b083-6b6f-4c71-bf89-4a4483d401e01629350582004-Anouk-Women-Kurtas-6181629350581610-6.jpg"
     },
     {
         "name": "Indo Era Women Yellow Floral Yoke Design Regular Kurta with Trousers & With Dupatta",
@@ -701,7 +569,7 @@
         "countInStock": 100,
         "numReviews": 714,
         "rating": 4,
-        "image": "images/b1732025-43d1-4413-9843-090cd40a6f591633518810684-Indo-Era-Women-Yellow-Floral-Yoke-Design-Regular-Kurta-with--1.jpg"
+        "image": "/images/b1732025-43d1-4413-9843-090cd40a6f591633518810684-Indo-Era-Women-Yellow-Floral-Yoke-Design-Regular-Kurta-with--1.jpg"
     },
     {
         "name": "heemara Women Purple Floral Embroidered Silk Chiffon Kurta with Trousers & With Dupatta",
@@ -712,7 +580,7 @@
         "countInStock": 100,
         "numReviews": 638,
         "rating": 4,
-        "image": "images/5934fceb-05cf-40c2-87e8-3fe9fd474c1e1645166780554heemaraWomenPurpleFloralEmbroideredThreadWorkSilkChiffonKurt1.jpg"
+        "image": "/images/5934fceb-05cf-40c2-87e8-3fe9fd474c1e1645166780554heemaraWomenPurpleFloralEmbroideredThreadWorkSilkChiffonKurt1.jpg"
     },
     {
         "name": "Anouk Purple & White Striped Straight Kurta",
@@ -723,7 +591,7 @@
         "countInStock": 100,
         "numReviews": 511,
         "rating": 4,
-        "image": "images/71fe0645-db94-4b06-a96c-292eb7da7d5c1613990092576-Anouk-Purple-Striped-Kurta-2011613990090496-1.jpg"
+        "image": "/images/71fe0645-db94-4b06-a96c-292eb7da7d5c1613990092576-Anouk-Purple-Striped-Kurta-2011613990090496-1.jpg"
     },
     {
         "name": "HERE&NOW Women White Solid Straight Kurta",
@@ -734,7 +602,7 @@
         "countInStock": 100,
         "numReviews": 2217,
         "rating": 4,
-        "image": "images/f0048a52-17b7-4a0b-8925-5cfad761ca201650284995022HERENOWWomenWhiteSolidStraightKurta1.jpg"
+        "image": "/images/f0048a52-17b7-4a0b-8925-5cfad761ca201650284995022HERENOWWomenWhiteSolidStraightKurta1.jpg"
     },
     {
         "name": "Ahalyaa Women Black Floral Pleated Pure Cotton Kurti with Trousers",
@@ -745,7 +613,7 @@
         "countInStock": 100,
         "numReviews": 11,
         "rating": 3,
-        "image": "images/716a819b-f77b-482e-a13f-4f64458029051656076922438KurtaSets1.jpg"
+        "image": "/images/716a819b-f77b-482e-a13f-4f64458029051656076922438KurtaSets1.jpg"
     },
     {
         "name": "Rustorange Women Mustard Yellow Floral Printed Angrakha Kurti with Sharara",
@@ -756,7 +624,7 @@
         "countInStock": 100,
         "numReviews": 67,
         "rating": 4,
-        "image": "images/339f3e1e-8e1b-492f-b5b3-78349fa4bcf01659630518697RustorangeWomenMustardYellowFloralPrintedAngrakhaKurtiwithSh1.jpg"
+        "image": "/images/339f3e1e-8e1b-492f-b5b3-78349fa4bcf01659630518697RustorangeWomenMustardYellowFloralPrintedAngrakhaKurtiwithSh1.jpg"
     },
     {
         "name": "Varanga Women Lavender Ethnic Motifs Printed Panelled Gotta Patti Pure Cotton Kurti with Sharara & With",
@@ -767,7 +635,7 @@
         "countInStock": 100,
         "numReviews": 76,
         "rating": 4,
-        "image": "images/b0665d71-1b34-4089-8e95-4cebf640a6631643256625686VarangaWomenLavenderEmbroideredPanelledGottaPattiPureCottonK1.jpg"
+        "image": "/images/b0665d71-1b34-4089-8e95-4cebf640a6631643256625686VarangaWomenLavenderEmbroideredPanelledGottaPattiPureCottonK1.jpg"
     },
     {
         "name": "HERE&NOW Women Green & White Ethnic Motifs Printed Kurta",
@@ -778,7 +646,7 @@
         "countInStock": 100,
         "numReviews": 226,
         "rating": 4,
-        "image": "images/4da81903-deda-42c5-9e3e-1607fa11524f1644842837193-HERENOW-Women-Green--White-Pure-Cotton-Ethnic-Motifs-Printed-1.jpg"
+        "image": "/images/4da81903-deda-42c5-9e3e-1607fa11524f1644842837193-HERENOW-Women-Green--White-Pure-Cotton-Ethnic-Motifs-Printed-1.jpg"
     },
     {
         "name": "Varanga Mustard Marigold Cotton Straight Kurta",
@@ -789,7 +657,7 @@
         "countInStock": 100,
         "numReviews": 13947,
         "rating": 4,
-        "image": "images/5d6a8e02-0fa0-4770-82f5-6b52d9c983561548242338312-Varanga-mustard-printed-straight-kurta-6361548242336928-1.jpg"
+        "image": "/images/5d6a8e02-0fa0-4770-82f5-6b52d9c983561548242338312-Varanga-mustard-printed-straight-kurta-6361548242336928-1.jpg"
     },
     {
         "name": "Vishudh Women Black & Teal Blue Checked Pure Cotton Kurta with Palazzo & Dupatta",
@@ -800,7 +668,7 @@
         "countInStock": 100,
         "numReviews": 77,
         "rating": 4,
-        "image": "images/bc780386-c2d5-475a-ba45-14d965957c5c1644641530795VishudhWomenBlackPleatedPureCottonKurtiwithTrousersWithDupat1.jpg"
+        "image": "/images/bc780386-c2d5-475a-ba45-14d965957c5c1644641530795VishudhWomenBlackPleatedPureCottonKurtiwithTrousersWithDupat1.jpg"
     },
     {
         "name": "Indo Era Women Green Ethnic Motifs Printed Panelled Gotta Patti Pure Cotton Kurta with Trousers & With",
@@ -811,7 +679,7 @@
         "countInStock": 100,
         "numReviews": 215,
         "rating": 4,
-        "image": "images/797117a8-153b-4dc0-a33e-5d2e82ef80701632484239222-Indo-Era-Women-Green-Ethnic-Motifs-Printed-Panelled-Gotta-Pa-1.jpg"
+        "image": "/images/797117a8-153b-4dc0-a33e-5d2e82ef80701632484239222-Indo-Era-Women-Green-Ethnic-Motifs-Printed-Panelled-Gotta-Pa-1.jpg"
     },
     {
         "name": "Nayo Women Mustard Printed Straight Kurta With Plazzo  & Dupatta",
@@ -822,7 +690,7 @@
         "countInStock": 100,
         "numReviews": 514,
         "rating": 4,
-        "image": "images/f02f2ce3-11db-47df-a6a8-4bc9041ce3c21656219851811NayoWomenMustardPrintedStraightKurtaWithPlazzoDupatta1.jpg"
+        "image": "/images/f02f2ce3-11db-47df-a6a8-4bc9041ce3c21656219851811NayoWomenMustardPrintedStraightKurtaWithPlazzoDupatta1.jpg"
     },
     {
         "name": "Vishudh Women White & Navy Blue Printed Anarkali Kurta",
@@ -833,7 +701,7 @@
         "countInStock": 100,
         "numReviews": 3444,
         "rating": 4,
-        "image": "images/6aba666c-f72f-4ba5-a619-c30997225dce1534400511956-na-8931534400511655-1.jpg"
+        "image": "/images/6aba666c-f72f-4ba5-a619-c30997225dce1534400511956-na-8931534400511655-1.jpg"
     },
     {
         "name": "KALINI Women Teal Blue & Golden Printed Kurti with Sharara",
@@ -844,7 +712,7 @@
         "countInStock": 100,
         "numReviews": 589,
         "rating": 4,
-        "image": "images/7738c355-5ff9-4962-b833-23298e5a34e11645094189571KALINIWomenTurquoiseBlueGottaPattiKurtiwithShararaWithDupatt1.jpg"
+        "image": "/images/7738c355-5ff9-4962-b833-23298e5a34e11645094189571KALINIWomenTurquoiseBlueGottaPattiKurtiwithShararaWithDupatt1.jpg"
     },
     {
         "name": "Stylum Women Pink Ethnic Motifs Printed Pure Cotton Kurta with Trousers & Dupatta",
@@ -855,7 +723,7 @@
         "countInStock": 100,
         "numReviews": 398,
         "rating": 4,
-        "image": "images/b1fbf2ec-09d2-46bb-89f8-91849ebac9a61627375681803StylumWomenPinkEthnicMotifsPrintedPureCottonKurtawithPalazzo1.jpg"
+        "image": "/images/b1fbf2ec-09d2-46bb-89f8-91849ebac9a61627375681803StylumWomenPinkEthnicMotifsPrintedPureCottonKurtawithPalazzo1.jpg"
     },
     {
         "name": "Sangria Women Pink Printed Straight Kurta",
@@ -866,7 +734,7 @@
         "countInStock": 100,
         "numReviews": 1182,
         "rating": 4,
-        "image": "images/9982bdc8-079f-4c91-b1a2-1b055a5179ad1557838905565-Sangria-Women-Kurtas-7181557838904365-1.jpg"
+        "image": "/images/9982bdc8-079f-4c91-b1a2-1b055a5179ad1557838905565-Sangria-Women-Kurtas-7181557838904365-1.jpg"
     },
     {
         "name": "Inddus Women Red Embroidered Kurta with Trousers & Dupatta",
@@ -877,7 +745,7 @@
         "countInStock": 100,
         "numReviews": 1327,
         "rating": 4,
-        "image": "images/8b311761-20c2-44b1-94a9-0d1bc522fd9a1583235378025-Inddus-Women-Red-Embroidered-Kurta-with-Trousers--Dupatta-30-1.jpg"
+        "image": "/images/8b311761-20c2-44b1-94a9-0d1bc522fd9a1583235378025-Inddus-Women-Red-Embroidered-Kurta-with-Trousers--Dupatta-30-1.jpg"
     },
     {
         "name": "Indo Era Women Off White & Pink Printed Sequinned Cotton Kurta with Palazzos & Dupatta",
@@ -888,7 +756,7 @@
         "countInStock": 100,
         "numReviews": 110,
         "rating": 4,
-        "image": "images/7aac3b5c-bf62-48a1-9398-67a0e15576c41625560897635-Indo-Era-Off-White-Floral-Printed-Straight-Kurta-Palazzo-Wit-1.jpg"
+        "image": "/images/7aac3b5c-bf62-48a1-9398-67a0e15576c41625560897635-Indo-Era-Off-White-Floral-Printed-Straight-Kurta-Palazzo-Wit-1.jpg"
     },
     {
         "name": "anayna Women Blue & White Geometric Screen Print Cotton Fusion Kurta",
@@ -899,7 +767,7 @@
         "countInStock": 100,
         "numReviews": 985,
         "rating": 5,
-        "image": "images/e0c3f8f6-6f8f-4c68-b59f-5f39085542e01618405482652AnaynaWomensStraightKurta1.jpg"
+        "image": "/images/e0c3f8f6-6f8f-4c68-b59f-5f39085542e01618405482652AnaynaWomensStraightKurta1.jpg"
     },
     {
         "name": "Biba Women Mustard Yellow & Pink Floral Printed Pure Cotton Straight Kurta",
@@ -910,7 +778,7 @@
         "countInStock": 100,
         "numReviews": 5,
         "rating": 5,
-        "image": "images/575c27b1-24d8-4363-b5a3-845a29d58c701657628613129-Biba-Women-Kurtas-9431657628612606-1.jpg"
+        "image": "/images/575c27b1-24d8-4363-b5a3-845a29d58c701657628613129-Biba-Women-Kurtas-9431657628612606-1.jpg"
     },
     {
         "name": "Anouk Women Charcoal Grey Pure Cotton Printed Pleated Top with Palazzos",
@@ -921,7 +789,7 @@
         "countInStock": 100,
         "numReviews": 7,
         "rating": 5,
-        "image": "images/aba2d12a-9488-49f7-846c-cd14ae01c1aa1653895702692-Anouk-Women-Kurta-Sets-7141653895701947-1.jpg"
+        "image": "/images/aba2d12a-9488-49f7-846c-cd14ae01c1aa1653895702692-Anouk-Women-Kurta-Sets-7141653895701947-1.jpg"
     },
     {
         "name": "Yufta Women Lavender & White Ethnic Motifs Printed Kurta with Trousers & Dupatta",
@@ -932,7 +800,7 @@
         "countInStock": 100,
         "numReviews": 366,
         "rating": 4,
-        "image": "images/dd03fc19-04db-4b1d-a548-2bbb7dcf560f1630048191438JuniperMintRayonCrepeSelfDesignStraightTopKurtaSetsYuftaWome7.jpg"
+        "image": "/images/dd03fc19-04db-4b1d-a548-2bbb7dcf560f1630048191438JuniperMintRayonCrepeSelfDesignStraightTopKurtaSetsYuftaWome7.jpg"
     },
     {
         "name": "Indo Era Women Pink Ethnic Motifs Embroidered Kurta with Trousers & Dupatta",
@@ -943,7 +811,7 @@
         "countInStock": 100,
         "numReviews": 37,
         "rating": 4,
-        "image": "images/75b8bd49-918a-4e97-a46b-b65384f064761654078529049-Indo-Era-Pink-Floral-Embroidered-Straight-Kurta-Trouser-With-1.jpg"
+        "image": "/images/75b8bd49-918a-4e97-a46b-b65384f064761654078529049-Indo-Era-Pink-Floral-Embroidered-Straight-Kurta-Trouser-With-1.jpg"
     },
     {
         "name": "Prakhya Women Pink Self Design Kurta with Trousers & Dupatta",
@@ -954,7 +822,7 @@
         "countInStock": 100,
         "numReviews": 5199,
         "rating": 4,
-        "image": "images/ef06dc09-c1f6-43a5-8c54-a0e85a47c10b1597876200592-1.jpg"
+        "image": "/images/ef06dc09-c1f6-43a5-8c54-a0e85a47c10b1597876200592-1.jpg"
     },
     {
         "name": "Nayo Women Navy Blue Ethnic Motifs Printed Cotton Kurta",
@@ -965,7 +833,7 @@
         "countInStock": 100,
         "numReviews": 109,
         "rating": 4,
-        "image": "images/2c5fafe5-e543-4ad3-a8f2-ad4890606a8c1638168134016NayoWomenNavyBlueGeometricPrintedKeyholeNeckThreadWorkKurta1.jpg"
+        "image": "/images/2c5fafe5-e543-4ad3-a8f2-ad4890606a8c1638168134016NayoWomenNavyBlueGeometricPrintedKeyholeNeckThreadWorkKurta1.jpg"
     },
     {
         "name": "Indo Era Women Blue Floral Printed Regular Pure Cotton Kurta with Palazzos & With Dupatta",
@@ -976,7 +844,7 @@
         "countInStock": 100,
         "numReviews": 72,
         "rating": 4,
-        "image": "images/5ed13e8f-0618-4813-ac99-f70ecab4ea441632739003147IndoEraBlueKhariPrintedStraightKurtaPalazzoWithDupattaSets1.jpg"
+        "image": "/images/5ed13e8f-0618-4813-ac99-f70ecab4ea441632739003147IndoEraBlueKhariPrintedStraightKurtaPalazzoWithDupattaSets1.jpg"
     },
     {
         "name": "Anouk Women Lime Green & Blue Printed A-Line Kurta",
@@ -987,7 +855,7 @@
         "countInStock": 100,
         "numReviews": 1258,
         "rating": 4,
-        "image": "images/bff54340-eef3-4182-8314-24fbb3bd26a51582109666710-Anouk-Women-Kurtas-9971582109665265-1.jpg"
+        "image": "/images/bff54340-eef3-4182-8314-24fbb3bd26a51582109666710-Anouk-Women-Kurtas-9971582109665265-1.jpg"
     },
     {
         "name": "Meeranshi Women Green Striped Straight Kurta",
@@ -998,7 +866,7 @@
         "countInStock": 100,
         "numReviews": 1807,
         "rating": 4,
-        "image": "images/13c055a7-6716-4d73-9855-ef5cf7021dae1569409399786-Green-Striped-Straight-Kurta-3991569409398566-1.jpg"
+        "image": "/images/13c055a7-6716-4d73-9855-ef5cf7021dae1569409399786-Green-Striped-Straight-Kurta-3991569409398566-1.jpg"
     },
     {
         "name": "Khushal K Women Green Ethnic Motifs Printed Gotta Patti Kurta with Trousers & Dupatta",
@@ -1009,7 +877,7 @@
         "countInStock": 100,
         "numReviews": 91,
         "rating": 4,
-        "image": "images/de7c003c-2f74-4c6f-b7d0-c7c1566ad7981646801368575KhushalKWomenGreenEthnicMotifsPrintedPanelledGottaPattiKurta7.jpg"
+        "image": "/images/de7c003c-2f74-4c6f-b7d0-c7c1566ad7981646801368575KhushalKWomenGreenEthnicMotifsPrintedPanelledGottaPattiKurta7.jpg"
     },
     {
         "name": "Libas Women Green & Gold-Toned Geometric Print Gotta Patti Kurta with Skirt & Dupatta",
@@ -1020,7 +888,7 @@
         "countInStock": 100,
         "numReviews": 40,
         "rating": 4,
-        "image": "images/400c86e5-2205-459f-af9c-1e61da3a84861652423040056-Libas-Women-Green--Gold-Toned-Geometric-Print-Gotta-Patti-Ku-1.jpg"
+        "image": "/images/400c86e5-2205-459f-af9c-1e61da3a84861652423040056-Libas-Women-Green--Gold-Toned-Geometric-Print-Gotta-Patti-Ku-1.jpg"
     },
     {
         "name": "mokshi Ethnic Motifs Viscose Rayon Kurta Set",
@@ -1031,7 +899,7 @@
         "countInStock": 100,
         "numReviews": 224,
         "rating": 4,
-        "image": "images/dd9d566a-e774-4621-b4e6-7a2ade3572dc1643024012122-mokshi-Women-Kurta-Sets-2901643024011607-1.jpg"
+        "image": "/images/dd9d566a-e774-4621-b4e6-7a2ade3572dc1643024012122-mokshi-Women-Kurta-Sets-2901643024011607-1.jpg"
     },
     {
         "name": "Anouk Women Purple Thread Work Kurta with Trousers & With Dupatta",
@@ -1042,7 +910,7 @@
         "countInStock": 100,
         "numReviews": 144,
         "rating": 4,
-        "image": "images/ea2825f1-ab9c-4376-9075-d1fc29cbb55f1631771913472-Anouk-Women-Kurta-Sets-6211631771912593-11.jpg"
+        "image": "/images/ea2825f1-ab9c-4376-9075-d1fc29cbb55f1631771913472-Anouk-Women-Kurta-Sets-6211631771912593-11.jpg"
     },
     {
         "name": "Biba Women Mustard Yellow & Golden Ethnic Motifs Printed Kurta with Palazzos & Dupatta",
@@ -1053,7 +921,7 @@
         "countInStock": 100,
         "numReviews": 52,
         "rating": 4,
-        "image": "images/e3b256cb-96c6-4a5b-9a3a-ad67a1cceb161653367344592-Biba-Women-Kurta-Sets-6921653367343867-1.jpg"
+        "image": "/images/e3b256cb-96c6-4a5b-9a3a-ad67a1cceb161653367344592-Biba-Women-Kurta-Sets-6921653367343867-1.jpg"
     },
     {
         "name": "Libas Women Red & Gold-Toned Ethnic Motifs Printed Kurta",
@@ -1064,7 +932,7 @@
         "countInStock": 100,
         "numReviews": 15,
         "rating": 4,
-        "image": "images/4064c7fe-3b42-441f-a606-5c64f44f909f1652845834746-Libas-Women-Kurtas-9841652845834192-1.jpg"
+        "image": "/images/4064c7fe-3b42-441f-a606-5c64f44f909f1652845834746-Libas-Women-Kurtas-9841652845834192-1.jpg"
     },
     {
         "name": "Anubhutee Women Green & Blue Printed Kurta with Trousers",
@@ -1075,7 +943,7 @@
         "countInStock": 100,
         "numReviews": 2712,
         "rating": 4,
-        "image": "images/c5300d99-77f9-4daa-a27c-85ebe46854881614167698599AnubhuteeWomenGreenBluePrintedKurtawithTrousers1.jpg"
+        "image": "/images/c5300d99-77f9-4daa-a27c-85ebe46854881614167698599AnubhuteeWomenGreenBluePrintedKurtawithTrousers1.jpg"
     },
     {
         "name": "Divena Women Pink Floral Embroidered Regular Gotta Patti Pure Cotton Kurta with Sharara & With Dupatta",
@@ -1086,7 +954,7 @@
         "countInStock": 100,
         "numReviews": 71,
         "rating": 5,
-        "image": "images/e37b678e-01b1-43a6-93d7-55ed2d34aea81637824706825KurtaSetsDivenaWomenKurtaSetsDivenaWomenKurtaSetsDivenaWomen1.jpg"
+        "image": "/images/e37b678e-01b1-43a6-93d7-55ed2d34aea81637824706825KurtaSetsDivenaWomenKurtaSetsDivenaWomenKurtaSetsDivenaWomen1.jpg"
     },
     {
         "name": "Varanga Women Pink & White Leheriya Printed Angrakha Kurta With Embroidery",
@@ -1097,7 +965,7 @@
         "countInStock": 100,
         "numReviews": 1038,
         "rating": 4,
-        "image": "images/1fa584db-2f9e-4a0f-8ee3-f649a92eb3de1614860439664-Varanga-Women-Pink--White-Leheriya-Printed-Angrakha-Kurta-Wi-1.jpg"
+        "image": "/images/1fa584db-2f9e-4a0f-8ee3-f649a92eb3de1614860439664-Varanga-Women-Pink--White-Leheriya-Printed-Angrakha-Kurta-Wi-1.jpg"
     },
     {
         "name": "Indo Era Women Burgundy & Golden Ethnic Motifs Yoke Design Kurta",
@@ -1108,7 +976,7 @@
         "countInStock": 100,
         "numReviews": 1033,
         "rating": 4,
-        "image": "images/210381ca-374c-4ed3-8973-7790bd9c64c01632394437077-Indo-Era-Women-Burgundy--Golden-Ethnic-Motifs-Yoke-Design-Ku-1.jpg"
+        "image": "/images/210381ca-374c-4ed3-8973-7790bd9c64c01632394437077-Indo-Era-Women-Burgundy--Golden-Ethnic-Motifs-Yoke-Design-Ku-1.jpg"
     },
     {
         "name": "Myshka Women Black & White Striped Straight Kurta",
@@ -1119,7 +987,7 @@
         "countInStock": 100,
         "numReviews": 1384,
         "rating": 4,
-        "image": "images/1d6b0f2e-7f14-4569-88ad-5c517815b0691557305744107-Myshka-Women-Kurtis-5611557305742371-1.jpg"
+        "image": "/images/1d6b0f2e-7f14-4569-88ad-5c517815b0691557305744107-Myshka-Women-Kurtis-5611557305742371-1.jpg"
     },
     {
         "name": "Nayo Women Navy Blue & Pink Floral Printed Pure Cotton Kurta with Trousers & With Dupatta",
@@ -1130,7 +998,7 @@
         "countInStock": 100,
         "numReviews": 50,
         "rating": 4,
-        "image": "images/9df28461-0fb1-4f06-b0aa-7c8b1d9fc4f01646033586343NayoWomenNavyBlueFloralEmbroideredPanelledPureCottonKurtiwit1.jpg"
+        "image": "/images/9df28461-0fb1-4f06-b0aa-7c8b1d9fc4f01646033586343NayoWomenNavyBlueFloralEmbroideredPanelledPureCottonKurtiwit1.jpg"
     },
     {
         "name": "AHIKA Women Orange & Pink Digital Print Straight Kurta",
@@ -1141,7 +1009,7 @@
         "countInStock": 100,
         "numReviews": 3126,
         "rating": 4,
-        "image": "images/4f8d0e1c-fe50-4e95-b20b-11b8b6bbb6a01560171983680-Vaamsi-Women-Kurtas-1701560171981869-1.jpg"
+        "image": "/images/4f8d0e1c-fe50-4e95-b20b-11b8b6bbb6a01560171983680-Vaamsi-Women-Kurtas-1701560171981869-1.jpg"
     },
     {
         "name": "Biba Women Green Ethnic Motifs Printed Regular Pure Cotton Kurta with Palazzos & With Dupatta",
@@ -1152,7 +1020,7 @@
         "countInStock": 100,
         "numReviews": 61,
         "rating": 4,
-        "image": "images/916da654-b90f-43c4-a79c-e3e5454850611631072618021-Biba-Women-Kurta-Sets-4661631072616713-1.jpg"
+        "image": "/images/916da654-b90f-43c4-a79c-e3e5454850611631072618021-Biba-Women-Kurta-Sets-4661631072616713-1.jpg"
     },
     {
         "name": "Inddus Women Wine Self Design Anarkali Kurta with Printed Organza Dupatta",
@@ -1163,7 +1031,7 @@
         "countInStock": 100,
         "numReviews": 150,
         "rating": 4,
-        "image": "images/9304193b-195f-4d5e-9ddb-84b6e092e04a1638273302949-Inddus-Women-Kurtas-5821638273301531-1.jpg"
+        "image": "/images/9304193b-195f-4d5e-9ddb-84b6e092e04a1638273302949-Inddus-Women-Kurtas-5821638273301531-1.jpg"
     },
     {
         "name": "Indo Era Women Black & Golden Ethnic Motifs Yoke Design Kurta with Palazzos & With Dupatta",
@@ -1174,7 +1042,7 @@
         "countInStock": 100,
         "numReviews": 640,
         "rating": 4,
-        "image": "images/195808cf-2665-47e5-a1f4-6c64450641c71627971499358IndoEraBlackSolidStraightKurtaTrouserWithDupattaSets1.jpg"
+        "image": "/images/195808cf-2665-47e5-a1f4-6c64450641c71627971499358IndoEraBlackSolidStraightKurtaTrouserWithDupattaSets1.jpg"
     },
     {
         "name": "Libas Women Blue & White Geometric Printed Pleated Cotton Kaftan Kurti with Trousers",
@@ -1185,7 +1053,7 @@
         "countInStock": 100,
         "numReviews": 64,
         "rating": 4,
-        "image": "images/fc5bb9c9-53e0-403e-91be-0b17c97cbbe01647843520775-Libas-Women-Kurta-Sets-2661647843520190-1.jpg"
+        "image": "/images/fc5bb9c9-53e0-403e-91be-0b17c97cbbe01647843520775-Libas-Women-Kurta-Sets-2661647843520190-1.jpg"
     },
     {
         "name": "Anouk Women White Ethnic Motifs Printed Pleated Pure Cotton Kurta with Trousers",
@@ -1196,7 +1064,7 @@
         "countInStock": 100,
         "numReviews": 96,
         "rating": 4,
-        "image": "images/f6b74de9-c9eb-4892-b31a-61696789cc2d1645167814987-Anouk-Women-White-Ethnic-Motifs-Printed-Pleated-Pure-Cotton--1.jpg"
+        "image": "/images/f6b74de9-c9eb-4892-b31a-61696789cc2d1645167814987-Anouk-Women-White-Ethnic-Motifs-Printed-Pleated-Pure-Cotton--1.jpg"
     },
     {
         "name": "Indo Era Women Green Ethnic Motifs Yoke Design Kurta with Palazzos & With Dupatta",
@@ -1207,7 +1075,7 @@
         "countInStock": 100,
         "numReviews": 32,
         "rating": 4,
-        "image": "images/e0e9782b-6037-46f1-8e2f-05172ee3563b1632981117440IndoEraGreenPrintedStaightKurtaTrouserWithDupattaSet1.jpg"
+        "image": "/images/e0e9782b-6037-46f1-8e2f-05172ee3563b1632981117440IndoEraGreenPrintedStaightKurtaTrouserWithDupattaSet1.jpg"
     },
     {
         "name": "Varanga Women Purple & Off White Leheriya Striped Gotta Patti Kurta",
@@ -1218,7 +1086,7 @@
         "countInStock": 100,
         "numReviews": 436,
         "rating": 4,
-        "image": "images/fd22f578-e747-4a48-9ea3-ab6951720a2e1626975171810VarangaWomenPurpleLeheriyaStripedFlaredSleevesGottaPattiKurt1.jpg"
+        "image": "/images/fd22f578-e747-4a48-9ea3-ab6951720a2e1626975171810VarangaWomenPurpleLeheriyaStripedFlaredSleevesGottaPattiKurt1.jpg"
     },
     {
         "name": "Shae by SASSAFRAS Women Mauve & White Bandhani Printed Gotta Patti Anarkali Kurta",
@@ -1229,7 +1097,7 @@
         "countInStock": 100,
         "numReviews": 37,
         "rating": 4,
-        "image": "images/d315b3fa-26c6-479b-af8c-04c701f6bfc91647495672556-Shae-by-SASSAFRAS-Women-Kurtas-4141647495671975-1.jpg"
+        "image": "/images/d315b3fa-26c6-479b-af8c-04c701f6bfc91647495672556-Shae-by-SASSAFRAS-Women-Kurtas-4141647495671975-1.jpg"
     },
     {
         "name": "Rajnandini Women Blue Abstract Kurta with Patiala & Dupatta",
@@ -1240,7 +1108,7 @@
         "countInStock": 100,
         "numReviews": 153,
         "rating": 4,
-        "image": "images/0f02b635-8cfb-4bd6-852d-c02c1d77e8fa1642662144391RajnandiniWomenBlueEthnicMotifsKurtawithPatialaWithDupatta1.jpg"
+        "image": "/images/0f02b635-8cfb-4bd6-852d-c02c1d77e8fa1642662144391RajnandiniWomenBlueEthnicMotifsKurtawithPatialaWithDupatta1.jpg"
     },
     {
         "name": "Anouk Women Black Printed Kurta with Trousers",
@@ -1251,7 +1119,7 @@
         "countInStock": 100,
         "numReviews": 853,
         "rating": 4,
-        "image": "images/836ee3d7-fe74-4a69-8141-988a74bdfea91607597398441-Anouk-Women-Kurta-Sets-3451607597397094-6.jpg"
+        "image": "/images/836ee3d7-fe74-4a69-8141-988a74bdfea91607597398441-Anouk-Women-Kurta-Sets-3451607597397094-6.jpg"
     },
     {
         "name": "Jaipur Kurti Women Pink Floral Gotta Patti Pure Cotton Kurta with Trousers & Dupatta",
@@ -1262,7 +1130,7 @@
         "countInStock": 100,
         "numReviews": 79,
         "rating": 5,
-        "image": "images/59bee077-f703-4aa9-acb5-e7adb1352b0c1642685760318JaipurKurtiWomenPinkFloralLayeredGottaPattiPureCottonKurtawi1.jpg"
+        "image": "/images/59bee077-f703-4aa9-acb5-e7adb1352b0c1642685760318JaipurKurtiWomenPinkFloralLayeredGottaPattiPureCottonKurtawi1.jpg"
     },
     {
         "name": "Biba Women Blue Ethnic Motifs Printed Pure Cotton Kurta with Palazzos & Dupatta",
@@ -1273,7 +1141,7 @@
         "countInStock": 100,
         "numReviews": 27,
         "rating": 5,
-        "image": "images/5a6090df-eed8-42ab-bf96-44c6da301b021653994683534-Biba-Women-Kurta-Sets-5501653994682637-1.jpg"
+        "image": "/images/5a6090df-eed8-42ab-bf96-44c6da301b021653994683534-Biba-Women-Kurta-Sets-5501653994682637-1.jpg"
     },
     {
         "name": "Yuris Women Pink & White Printed Kurta with Palazzos & Dupatta",
@@ -1284,7 +1152,7 @@
         "countInStock": 100,
         "numReviews": 2196,
         "rating": 4,
-        "image": "images/e59a03f2-fb5b-44c9-a997-cb5f52bfcf5a1606381676380-1.jpg"
+        "image": "/images/e59a03f2-fb5b-44c9-a997-cb5f52bfcf5a1606381676380-1.jpg"
     },
     {
         "name": "KALINI Women Black Geometric Checked Thread Work Straight Kurta",
@@ -1295,7 +1163,7 @@
         "countInStock": 100,
         "numReviews": 390,
         "rating": 4,
-        "image": "images/f32f7264-e676-45c8-85f9-3215aca7cb4d1645522478531KALINIWomenBlackCheckedThreadWorkQuirkyKurta1.jpg"
+        "image": "/images/f32f7264-e676-45c8-85f9-3215aca7cb4d1645522478531KALINIWomenBlackCheckedThreadWorkQuirkyKurta1.jpg"
     },
     {
         "name": "Libas Women Blue Sequinned Detail Kurta with Palazzos & Dupatta",
@@ -1306,7 +1174,7 @@
         "countInStock": 100,
         "numReviews": 702,
         "rating": 4,
-        "image": "images/437f2208-de06-4ca9-91af-e73332d3e7261629717228200-Libas-Women-Kurta-Sets-8831629717227163-1.jpg"
+        "image": "/images/437f2208-de06-4ca9-91af-e73332d3e7261629717228200-Libas-Women-Kurta-Sets-8831629717227163-1.jpg"
     },
     {
         "name": "Biba Women Black Floral Printed Panelled Pure Cotton Kurta with Palazzos & With Dupatta",
@@ -1317,7 +1185,7 @@
         "countInStock": 100,
         "numReviews": 87,
         "rating": 5,
-        "image": "images/2267b9e9-b319-4a76-bf2d-a96a29a608261629892913932-Biba-Women-Kurta-Sets-2971629892912698-1.jpg"
+        "image": "/images/2267b9e9-b319-4a76-bf2d-a96a29a608261629892913932-Biba-Women-Kurta-Sets-2971629892912698-1.jpg"
     },
     {
         "name": "Vbuyz Women Blue Ethnic Motifs Panelled Kurti with Trousers & With Dupatta",
@@ -1328,7 +1196,7 @@
         "countInStock": 100,
         "numReviews": 139,
         "rating": 4,
-        "image": "images/23bc8e5f-1535-4a95-aaaa-b27e9d2e43021623432225952-1.jpg"
+        "image": "/images/23bc8e5f-1535-4a95-aaaa-b27e9d2e43021623432225952-1.jpg"
     },
     {
         "name": "Ishin Women Teal Embroidered Regular Sequinned Pure Cotton Kurta with Sharara & With Dupatta",
@@ -1339,7 +1207,7 @@
         "countInStock": 100,
         "numReviews": 244,
         "rating": 4,
-        "image": "images/f90edd30-17ac-4469-b365-8a0b8ee0edea1637929925223IshinWomensCottonTealYokeDesignA-LineKurtaShararaDupattaSet1.jpg"
+        "image": "/images/f90edd30-17ac-4469-b365-8a0b8ee0edea1637929925223IshinWomensCottonTealYokeDesignA-LineKurtaShararaDupattaSet1.jpg"
     },
     {
         "name": "Bhama Couture Women Blue & White Bandhani Printed Kurta with Palazzos",
@@ -1350,7 +1218,7 @@
         "countInStock": 100,
         "numReviews": 444,
         "rating": 4,
-        "image": "images/45ef359a-1371-4cf8-8578-c22b865c0db91565755056181-Bhama-Couture-Women-Blue--White-Bandhani-Printed-Kurta-with--1.jpg"
+        "image": "/images/45ef359a-1371-4cf8-8578-c22b865c0db91565755056181-Bhama-Couture-Women-Blue--White-Bandhani-Printed-Kurta-with--1.jpg"
     },
     {
         "name": "Stylum Women Mustard Yellow Ethnic Motifs Yoke Design Pleated Gotta Patti Kurti with Dhoti Pants",
@@ -1361,7 +1229,7 @@
         "countInStock": 100,
         "numReviews": 2075,
         "rating": 4,
-        "image": "images/f2a81e9f-094b-45bd-8c7a-d4ed84c5254c1627375445888StylumWomenMustardYellowEthnicMotifsYokeDesignEmpireKurtiwit1.jpg"
+        "image": "/images/f2a81e9f-094b-45bd-8c7a-d4ed84c5254c1627375445888StylumWomenMustardYellowEthnicMotifsYokeDesignEmpireKurtiwit1.jpg"
     },
     {
         "name": "KALINI Women Blue Ethnic Motifs Printed Floral Anarkali Kurta",
@@ -1372,7 +1240,7 @@
         "countInStock": 100,
         "numReviews": 502,
         "rating": 4,
-        "image": "images/b513f76b-aa64-4913-a151-6817ed8607311639403460307KALINIWomenBlueEthnicMotifsPrintedFloralAnarkaliKurta5.jpg"
+        "image": "/images/b513f76b-aa64-4913-a151-6817ed8607311639403460307KALINIWomenBlueEthnicMotifsPrintedFloralAnarkaliKurta5.jpg"
     },
     {
         "name": "Indo Era Women Peach-Coloured & Pink Pure Cotton Printed Kurta with Trousers & Dupatta",
@@ -1383,7 +1251,7 @@
         "countInStock": 100,
         "numReviews": 124,
         "rating": 4,
-        "image": "images/8616b99b-fdd4-4690-bd14-bcd8377a2ed01626775531501-Indo-Era-Women-Peach-Coloured-Pure-Cotton-Printed-Kurta-with-1.jpg"
+        "image": "/images/8616b99b-fdd4-4690-bd14-bcd8377a2ed01626775531501-Indo-Era-Women-Peach-Coloured-Pure-Cotton-Printed-Kurta-with-1.jpg"
     },
     {
         "name": "House of Pataudi Women Purple & Gold-Toned Embroidered Kurta Set",
@@ -1394,7 +1262,7 @@
         "countInStock": 100,
         "numReviews": 256,
         "rating": 4,
-        "image": "images/a9b7eb42-9669-47ca-a762-6b37d1cca3b01588595301811-House-of-Pataudi-Women-Purple--Gold-Toned-Embroidered-Kurta--1.jpg"
+        "image": "/images/a9b7eb42-9669-47ca-a762-6b37d1cca3b01588595301811-House-of-Pataudi-Women-Purple--Gold-Toned-Embroidered-Kurta--1.jpg"
     },
     {
         "name": "Libas Women White Printed Kurti with Sharara & Dupatta",
@@ -1405,7 +1273,7 @@
         "countInStock": 100,
         "numReviews": 570,
         "rating": 4,
-        "image": "images/88132f35-7bda-4408-9db1-722fd4671b771626168416130-Libas-Women-White-Printed-Kurti-with-Sharara--Dupatta-840162-1.jpg"
+        "image": "/images/88132f35-7bda-4408-9db1-722fd4671b771626168416130-Libas-Women-White-Printed-Kurti-with-Sharara--Dupatta-840162-1.jpg"
     },
     {
         "name": "Anouk Women Green & White Ethnic Motifs Printed Cotton Kurta",
@@ -1416,7 +1284,7 @@
         "countInStock": 100,
         "numReviews": 448,
         "rating": 4,
-        "image": "images/145f4320-485a-41ba-a168-57b0d859b9d61632994652381-Anouk-Women-Kurtas-4281632994651838-1.jpg"
+        "image": "/images/145f4320-485a-41ba-a168-57b0d859b9d61632994652381-Anouk-Women-Kurtas-4281632994651838-1.jpg"
     },
     {
         "name": "Indo Era Women Pink Floral Embroidered Kurta with Palazzos & With Dupatta",
@@ -1427,7 +1295,7 @@
         "countInStock": 100,
         "numReviews": 108,
         "rating": 4,
-        "image": "images/900caf30-08c1-43a9-a2c4-09534e608a6c1634021324400IndoEraWomenPinkEmbroideredPanelledKurtiwithTrousersWithDupa1.jpg"
+        "image": "/images/900caf30-08c1-43a9-a2c4-09534e608a6c1634021324400IndoEraWomenPinkEmbroideredPanelledKurtiwithTrousersWithDupa1.jpg"
     },
     {
         "name": "KALINI Women Green Floral Printed Gotta Patti Kurta with Sharara",
@@ -1438,7 +1306,7 @@
         "countInStock": 100,
         "numReviews": 268,
         "rating": 5,
-        "image": "images/1cfda136-56ea-48e0-97b6-77a4c22a2c541645095163249KALINIWomenGreenFloralPrintedGottaPattiKurtawithSharara1.jpg"
+        "image": "/images/1cfda136-56ea-48e0-97b6-77a4c22a2c541645095163249KALINIWomenGreenFloralPrintedGottaPattiKurtawithSharara1.jpg"
     },
     {
         "name": "Varanga Women Black & White Geometric Printed Bell Sleeves Kurta",
@@ -1449,7 +1317,7 @@
         "countInStock": 100,
         "numReviews": 718,
         "rating": 4,
-        "image": "images/fad7e8eb-c956-498f-a7a8-fc08b923c7231614762312890-Varanga-Women-Black--White-Geometric-Printed-Bell-Sleeves-Ku-1.jpg"
+        "image": "/images/fad7e8eb-c956-498f-a7a8-fc08b923c7231614762312890-Varanga-Women-Black--White-Geometric-Printed-Bell-Sleeves-Ku-1.jpg"
     },
     {
         "name": "AHIKA Women Pink & White Bandhani Print Pure Cotton Kurta with Trousers & Dupatta",
@@ -1460,7 +1328,7 @@
         "countInStock": 100,
         "numReviews": 77,
         "rating": 5,
-        "image": "images/03ac3f99-91c0-4b5f-a568-07ce4e331cb21631243361358-AHIKA-Women-Pink--White-Bandhani-Print-Pure-Cotton-Kurta-wit-1.jpg"
+        "image": "/images/03ac3f99-91c0-4b5f-a568-07ce4e331cb21631243361358-AHIKA-Women-Pink--White-Bandhani-Print-Pure-Cotton-Kurta-wit-1.jpg"
     },
     {
         "name": "Libas Women Blue Floral Printed Pure Cotton Kurta with Trousers & With Dupatta",
@@ -1471,7 +1339,7 @@
         "countInStock": 100,
         "numReviews": 144,
         "rating": 5,
-        "image": "images/45c3d4ff-d73d-483e-8a3f-c8b53aac011e1647942998695-Libas-Women-Kurta-Sets-6811647942997927-1.jpg"
+        "image": "/images/45c3d4ff-d73d-483e-8a3f-c8b53aac011e1647942998695-Libas-Women-Kurta-Sets-6811647942997927-1.jpg"
     },
     {
         "name": "Vishudh Women Yellow Striped Regular Pure Cotton Kurta with Palazzos",
@@ -1482,7 +1350,7 @@
         "countInStock": 100,
         "numReviews": 141,
         "rating": 4,
-        "image": "images/fbff3a46-dd0e-4506-8c14-37da8517de961630513015495VishudhWomenYellowPrintedRegularPureCottonKurtawithPalazzos1.jpg"
+        "image": "/images/fbff3a46-dd0e-4506-8c14-37da8517de961630513015495VishudhWomenYellowPrintedRegularPureCottonKurtawithPalazzos1.jpg"
     },
     {
         "name": "Nayo Women Green Printed Kurta with Trousers & Dupatta",
@@ -1493,7 +1361,7 @@
         "countInStock": 100,
         "numReviews": 455,
         "rating": 4,
-        "image": "images/7f3388f4-8d3f-45c8-a301-3d5965fe9ba11653502914255NayoWomenGreenPrintedKurtawithTrousersDupatta1.jpg"
+        "image": "/images/7f3388f4-8d3f-45c8-a301-3d5965fe9ba11653502914255NayoWomenGreenPrintedKurtawithTrousersDupatta1.jpg"
     },
     {
         "name": "Indo Era Women Black & Teal Blue Yoke Design Kurta with Palazzos & Dupatta",
@@ -1504,7 +1372,7 @@
         "countInStock": 100,
         "numReviews": 4858,
         "rating": 4,
-        "image": "images/f7528b53-a446-4494-9eed-222dcf9fcf931598007423705-Indo-Era-Women-Black--Teal-Yoke-Design-Kurta-with-Palazzos---1.jpg"
+        "image": "/images/f7528b53-a446-4494-9eed-222dcf9fcf931598007423705-Indo-Era-Women-Black--Teal-Yoke-Design-Kurta-with-Palazzos---1.jpg"
     },
     {
         "name": "SheWill Women Purple Sequinned Kurti with Trousers",
@@ -1515,7 +1383,7 @@
         "countInStock": 100,
         "numReviews": 5,
         "rating": 3,
-        "image": "images/2ed069d2-905f-41ca-952b-f72bb7a8ba491657387541624SheWillWomenPurpleAmericanCrepeSequenceEmbroideredKurtaWithP1.jpg"
+        "image": "/images/2ed069d2-905f-41ca-952b-f72bb7a8ba491657387541624SheWillWomenPurpleAmericanCrepeSequenceEmbroideredKurtaWithP1.jpg"
     },
     {
         "name": "Anouk Women Blue & White Printed Straight Kurta",
@@ -1526,7 +1394,7 @@
         "countInStock": 100,
         "numReviews": 1700,
         "rating": 4,
-        "image": "images/11517914462584-Anouk-Women-Blue--White-Printed-A-Line-Kurta-4881517914462464-1.jpg"
+        "image": "/images/11517914462584-Anouk-Women-Blue--White-Printed-A-Line-Kurta-4881517914462464-1.jpg"
     },
     {
         "name": "Vishudh Women White & Pink Printed A-Line Kurta",
@@ -1537,7 +1405,7 @@
         "countInStock": 100,
         "numReviews": 714,
         "rating": 4,
-        "image": "images/63cb4b2f-b544-4e4c-8b1f-6394943a526f1536664852590-Vishudh-Women-White--Pink-Printed-A-Line-Kurta-2531536664852333-1.jpg"
+        "image": "/images/63cb4b2f-b544-4e4c-8b1f-6394943a526f1536664852590-Vishudh-Women-White--Pink-Printed-A-Line-Kurta-2531536664852333-1.jpg"
     },
     {
         "name": "Varanga Women Navy Blue & Red Ethnic Motifs Printed Kurta",
@@ -1548,7 +1416,7 @@
         "countInStock": 100,
         "numReviews": 72,
         "rating": 4,
-        "image": "images/2067750a-18aa-4367-bce7-9083df80d3ea1646472873112VarangaWomenNavyBlueEthnicMotifsPrintedKurta1.jpg"
+        "image": "/images/2067750a-18aa-4367-bce7-9083df80d3ea1646472873112VarangaWomenNavyBlueEthnicMotifsPrintedKurta1.jpg"
     },
     {
         "name": "Anouk Women Navy Blue Floral Yoke Design Thread Work Straight Kurta",
@@ -1559,7 +1427,7 @@
         "countInStock": 100,
         "numReviews": 104,
         "rating": 4,
-        "image": "images/29a9002e-07d2-42e9-9275-938bb2f749dc1637227880939herbyinvictusWomenNavyBlueMaroonColourblockedBomberJacketKur1.jpg"
+        "image": "/images/29a9002e-07d2-42e9-9275-938bb2f749dc1637227880939herbyinvictusWomenNavyBlueMaroonColourblockedBomberJacketKur1.jpg"
     },
     {
         "name": "Libas Women Peach Pink Ethnic Motifs Print Flared Sleeves Laces Pure Cotton Straight Kurta",
@@ -1570,7 +1438,7 @@
         "countInStock": 100,
         "numReviews": 15,
         "rating": 5,
-        "image": "images/124e6a9b-9dae-4eb7-b855-c903b88d57391643968184117-Peach-Cotton-Printed-Straight-With-Lace-Detail-Kurta-2551643-1.jpg"
+        "image": "/images/124e6a9b-9dae-4eb7-b855-c903b88d57391643968184117-Peach-Cotton-Printed-Straight-With-Lace-Detail-Kurta-2551643-1.jpg"
     },
     {
         "name": "PRENEA Women Blue Floral Embroidered Pleated Kurti with Palazzos & With Dupatta",
@@ -1581,7 +1449,7 @@
         "countInStock": 100,
         "numReviews": 34,
         "rating": 4,
-        "image": "images/e217fcd8-d164-4e39-b441-84c6719d48fe1656049793204PRENEAWomenBlueFloralEmbroideredPleatedKurtiwithSkirtWithDup1.jpg"
+        "image": "/images/e217fcd8-d164-4e39-b441-84c6719d48fe1656049793204PRENEAWomenBlueFloralEmbroideredPleatedKurtiwithSkirtWithDup1.jpg"
     },
     {
         "name": "Yuris Women Grey & White Pure Cotton Printed Kurta with Palazzos & Dupatta",
@@ -1592,7 +1460,7 @@
         "countInStock": 100,
         "numReviews": 289,
         "rating": 4,
-        "image": "images/34caba13-0205-4176-96bd-60faaef2c62c1618914700590YurisGreyandwhiteprintedpurecottonkurtawithpalazzodupatta1.jpg"
+        "image": "/images/34caba13-0205-4176-96bd-60faaef2c62c1618914700590YurisGreyandwhiteprintedpurecottonkurtawithpalazzodupatta1.jpg"
     },
     {
         "name": "W Women Green Geometric Printed Kurta",
@@ -1603,7 +1471,7 @@
         "countInStock": 100,
         "numReviews": 57,
         "rating": 4,
-        "image": "images/7fd0ff16-d3a5-4efb-bdaf-b393439952961616476742007-1.jpg"
+        "image": "/images/7fd0ff16-d3a5-4efb-bdaf-b393439952961616476742007-1.jpg"
     },
     {
         "name": "HERE&NOW Women Red Printed A-Line Kurta",
@@ -1614,7 +1482,7 @@
         "countInStock": 100,
         "numReviews": 2669,
         "rating": 4,
-        "image": "images/11523957803243-HERENOW-Women-Kurtas-8681523957803163-1.jpg"
+        "image": "/images/11523957803243-HERENOW-Women-Kurtas-8681523957803163-1.jpg"
     },
     {
         "name": "Anubhutee Women Pink & White Printed Kurta with Trousers & Dupatta",
@@ -1625,7 +1493,7 @@
         "countInStock": 100,
         "numReviews": 1129,
         "rating": 4,
-        "image": "images/a516246d-b0f2-45cd-838c-898e3c9b44651654088408644AnubhuteeWomenPinkWhitePrintedKurtawithTrousersDupatta1.jpg"
+        "image": "/images/a516246d-b0f2-45cd-838c-898e3c9b44651654088408644AnubhuteeWomenPinkWhitePrintedKurtawithTrousersDupatta1.jpg"
     },
     {
         "name": "FASHION DEPTH Women Black Ethnic Motifs Embroidered Kurta",
@@ -1636,7 +1504,7 @@
         "countInStock": 100,
         "numReviews": 159,
         "rating": 4,
-        "image": "images/269c1982-dc66-4bc7-83bb-ee4b9133287b1643087307420FASHIONDEPTHWomenBlackEthnicMotifsYokeDesignThreadWorkKurta1.jpg"
+        "image": "/images/269c1982-dc66-4bc7-83bb-ee4b9133287b1643087307420FASHIONDEPTHWomenBlackEthnicMotifsYokeDesignThreadWorkKurta1.jpg"
     },
     {
         "name": "HERE&NOW Women Mustard Yellow Bandhani Print Kurta with Sharara & Dupatta",
@@ -1647,7 +1515,7 @@
         "countInStock": 100,
         "numReviews": 5,
         "rating": 4,
-        "image": "images/343c882c-f08b-4c99-938a-6d8024911c731650266603636-HERENOW-Women-Kurta-Sets-6631650266603079-7.jpg"
+        "image": "/images/343c882c-f08b-4c99-938a-6d8024911c731650266603636-HERENOW-Women-Kurta-Sets-6631650266603079-7.jpg"
     },
     {
         "name": "W Women Black Quirky Printed Kurta",
@@ -1658,7 +1526,7 @@
         "countInStock": 100,
         "numReviews": 279,
         "rating": 4,
-        "image": "images/e82d41b2-7dc0-4495-b44d-ea589e4ce4541613970872030-1.jpg"
+        "image": "/images/e82d41b2-7dc0-4495-b44d-ea589e4ce4541613970872030-1.jpg"
     },
     {
         "name": "Vishudh Women Lime Green Floral Printed Floral Kurta",
@@ -1669,7 +1537,7 @@
         "countInStock": 100,
         "numReviews": 265,
         "rating": 4,
-        "image": "images/930453b3-df93-4638-9fef-1bd886aaa8571617614837681-na-2611617614836977-1.jpg"
+        "image": "/images/930453b3-df93-4638-9fef-1bd886aaa8571617614837681-na-2611617614836977-1.jpg"
     },
     {
         "name": "Biba Women Teal Green Floral Printed Kurta with Salwar",
@@ -1680,7 +1548,7 @@
         "countInStock": 100,
         "numReviews": 28,
         "rating": 4,
-        "image": "images/1b90e2e0-6c97-422a-91d6-6c367e2c76991653970638262-Biba-Women-Kurta-Sets-2311653970637592-1.jpg"
+        "image": "/images/1b90e2e0-6c97-422a-91d6-6c367e2c76991653970638262-Biba-Women-Kurta-Sets-2311653970637592-1.jpg"
     },
     {
         "name": "Vishudh Women Navy Blue Yoke Design Straight Kurta",
@@ -1691,7 +1559,7 @@
         "countInStock": 100,
         "numReviews": 2651,
         "rating": 4,
-        "image": "images/b0f02abf-77a7-4bcc-8426-adfce3d1bc4b1528199680027-Vishudh-Women-Kurtas-3951528199679814-1.jpg"
+        "image": "/images/b0f02abf-77a7-4bcc-8426-adfce3d1bc4b1528199680027-Vishudh-Women-Kurtas-3951528199679814-1.jpg"
     },
     {
         "name": "Ishin Women Brown Embroidered Kurti with Sharara & Dupatta",
@@ -1702,7 +1570,7 @@
         "countInStock": 100,
         "numReviews": 269,
         "rating": 4,
-        "image": "images/1568ab72-37c1-4624-b9e2-8b1db40c0ed71613038885164-1.jpg"
+        "image": "/images/1568ab72-37c1-4624-b9e2-8b1db40c0ed71613038885164-1.jpg"
     },
     {
         "name": "Varanga Women Pink Ethnic Motifs A-line Kurta with Trousers &  Dupatta",
@@ -1713,7 +1581,7 @@
         "countInStock": 100,
         "numReviews": 17,
         "rating": 4,
-        "image": "images/b73410ec-85de-45c5-b523-9898485783ec1647937774242VarangaWomenPinkEthnicMotifsYokeDesignPanelledKurtiwithChuri1.jpg"
+        "image": "/images/b73410ec-85de-45c5-b523-9898485783ec1647937774242VarangaWomenPinkEthnicMotifsYokeDesignPanelledKurtiwithChuri1.jpg"
     },
     {
         "name": "Nayo Women Blue & Maroon Paisley Printed Cotton Kurta",
@@ -1724,7 +1592,7 @@
         "countInStock": 100,
         "numReviews": 22,
         "rating": 4,
-        "image": "images/cb4178ab-175e-4d5a-8520-fd208ecb18e61646626214640NayoWomenBluePaisleyPrintedKeyholeNeckMirrorWorkKurta1.jpg"
+        "image": "/images/cb4178ab-175e-4d5a-8520-fd208ecb18e61646626214640NayoWomenBluePaisleyPrintedKeyholeNeckMirrorWorkKurta1.jpg"
     },
     {
         "name": "Anouk Women Blue Kurta with Yarn Dyed Trousers",
@@ -1735,7 +1603,7 @@
         "countInStock": 100,
         "numReviews": 28,
         "rating": 5,
-        "image": "images/9cd688ab-b11d-4721-9e7f-6effc3dbb5501645444433919-Anouk-Women-Kurta-Sets-281645444433262-1.jpg"
+        "image": "/images/9cd688ab-b11d-4721-9e7f-6effc3dbb5501645444433919-Anouk-Women-Kurta-Sets-281645444433262-1.jpg"
     },
     {
         "name": "W Women White Geometric Printed Thread Work Kurta",
@@ -1746,7 +1614,7 @@
         "countInStock": 100,
         "numReviews": 7,
         "rating": 5,
-        "image": "images/5ab2e868-781c-470a-8364-ddb95cf44def1643096196160WWomenWhiteGeometricKeyholeNeckThreadWorkKurta1.jpg"
+        "image": "/images/5ab2e868-781c-470a-8364-ddb95cf44def1643096196160WWomenWhiteGeometricKeyholeNeckThreadWorkKurta1.jpg"
     },
     {
         "name": "Anouk Women Purple & White Ethnic Motifs Printed Cotton Kurta",
@@ -1757,7 +1625,7 @@
         "countInStock": 100,
         "numReviews": 282,
         "rating": 4,
-        "image": "images/21a89d76-6637-4201-aad0-88cbbb3df8611632994636510-Anouk-Women-Kurtas-8441632994635996-1.jpg"
+        "image": "/images/21a89d76-6637-4201-aad0-88cbbb3df8611632994636510-Anouk-Women-Kurtas-8441632994635996-1.jpg"
     },
     {
         "name": "KALINI Women Pink Bandhani Printed Anarkali Kurta",
@@ -1768,7 +1636,7 @@
         "countInStock": 100,
         "numReviews": 382,
         "rating": 4,
-        "image": "images/6fc05a51-acad-45c6-843f-bafc27b7529f1639397638933KALINIWomenPinkGeometricDyedFloralAnarkaliKurta1.jpg"
+        "image": "/images/6fc05a51-acad-45c6-843f-bafc27b7529f1639397638933KALINIWomenPinkGeometricDyedFloralAnarkaliKurta1.jpg"
     },
     {
         "name": "Vishudh Women Yellow & Off White Ethnic Motifs Printed A-Line Kurta with Jacket",
@@ -1779,7 +1647,7 @@
         "countInStock": 100,
         "numReviews": 124,
         "rating": 4,
-        "image": "images/99ed8ec1-c079-481d-bbf7-846b2c6747621632735846100VishudhWomenYellowEthnicMotifsPrintedKeyholeNeckAnarkaliKurt6.jpg"
+        "image": "/images/99ed8ec1-c079-481d-bbf7-846b2c6747621632735846100VishudhWomenYellowEthnicMotifsPrintedKeyholeNeckAnarkaliKurt6.jpg"
     },
     {
         "name": "Meeranshi Women Navy Blue Ethnic Motifs Panelled Kurta with Trousers & With Dupatta",
@@ -1790,7 +1658,7 @@
         "countInStock": 100,
         "numReviews": 3,
         "rating": 4,
-        "image": "images/55fdf6cb-91c1-4b54-b51f-eb6ac22e9c2f1657959654991MeeranshiWomenNavyBlueEthnicMotifsPanelledGottaPattiKurtiwit1.jpg"
+        "image": "/images/55fdf6cb-91c1-4b54-b51f-eb6ac22e9c2f1657959654991MeeranshiWomenNavyBlueEthnicMotifsPanelledGottaPattiKurtiwit1.jpg"
     },
     {
         "name": "anayna Women Beige & Pink Screen Print Straight Kurta",
@@ -1801,7 +1669,7 @@
         "countInStock": 100,
         "numReviews": 1116,
         "rating": 4,
-        "image": "images/9effe877-9389-47c1-92e2-1b11b8ac7ed31582622121073-anayna-Women-Beige--Pink-Printed-Straight-Kurta-773158262211-1.jpg"
+        "image": "/images/9effe877-9389-47c1-92e2-1b11b8ac7ed31582622121073-anayna-Women-Beige--Pink-Printed-Straight-Kurta-773158262211-1.jpg"
     },
     {
         "name": "W Women Green & Golden Regular Sequinned Kurta with Trousers & With Dupatta",
@@ -1812,7 +1680,7 @@
         "countInStock": 100,
         "numReviews": 766,
         "rating": 4,
-        "image": "images/b48c21da-3dca-425b-8d36-424f693409931630563973270-W-Light-Green-Round-Neck-34-SLv--Kurta-Sets-9921630563972492-1.jpg"
+        "image": "/images/b48c21da-3dca-425b-8d36-424f693409931630563973270-W-Light-Green-Round-Neck-34-SLv--Kurta-Sets-9921630563972492-1.jpg"
     },
     {
         "name": "Anubhutee Women Mustard Yellow & Brown Screen Printed Straight Kurta",
@@ -1823,7 +1691,7 @@
         "countInStock": 100,
         "numReviews": 5772,
         "rating": 4,
-        "image": "images/e515a887-a59f-48bf-a53b-0181c4381a431567580918498-Anubhutee-Women-Kurtas-991567580917526-1.jpg"
+        "image": "/images/e515a887-a59f-48bf-a53b-0181c4381a431567580918498-Anubhutee-Women-Kurtas-991567580917526-1.jpg"
     },
     {
         "name": "FASHION DEPTH Women Green & Yellow Floral Yoke Design Thread Work Straight Kurta",
@@ -1834,7 +1702,7 @@
         "countInStock": 100,
         "numReviews": 604,
         "rating": 5,
-        "image": "images/38c59e48-22df-4b64-8a37-c93f96b535911643298708933FASHIONDEPTHWomenGreenYellowFloralYokeDesignThreadWorkStraig1.jpg"
+        "image": "/images/38c59e48-22df-4b64-8a37-c93f96b535911643298708933FASHIONDEPTHWomenGreenYellowFloralYokeDesignThreadWorkStraig1.jpg"
     },
     {
         "name": "anayna Women Pink Printed Straight Kurta",
@@ -1845,7 +1713,7 @@
         "countInStock": 100,
         "numReviews": 1263,
         "rating": 5,
-        "image": "images/cbd76360-48e7-4dec-a8a1-b1865855684d1555483115190-anayna-Women-Pink--Teal-Printed-Straight-Kurta-4141555483113-1.jpg"
+        "image": "/images/cbd76360-48e7-4dec-a8a1-b1865855684d1555483115190-anayna-Women-Pink--Teal-Printed-Straight-Kurta-4141555483113-1.jpg"
     },
     {
         "name": "Nayo Women Navy Blue Ethnic Motifs Printed Indigo Kurta",
@@ -1856,7 +1724,7 @@
         "countInStock": 100,
         "numReviews": 325,
         "rating": 4,
-        "image": "images/7adc158e-82b1-4774-bab3-b1268147fd0c1621404333875-1.jpg"
+        "image": "/images/7adc158e-82b1-4774-bab3-b1268147fd0c1621404333875-1.jpg"
     },
     {
         "name": "Jaipur Kurti Women Mustard Yellow & Grey Yoke Design Kurta with Palazzos & Dupatta",
@@ -1867,7 +1735,7 @@
         "countInStock": 100,
         "numReviews": 1970,
         "rating": 4,
-        "image": "images/dc7bb0aa-34f6-435a-9649-f7381927ba251565268692798-Jaipur-Kurti-Women-Kurta-Sets-6041565268691298-1.jpg"
+        "image": "/images/dc7bb0aa-34f6-435a-9649-f7381927ba251565268692798-Jaipur-Kurti-Women-Kurta-Sets-6041565268691298-1.jpg"
     },
     {
         "name": "Biba Women Yellow Printed Regular Kurta with Palazzos & With Dupatta",
@@ -1878,7 +1746,7 @@
         "countInStock": 100,
         "numReviews": 45,
         "rating": 4,
-        "image": "images/849c44d7-0274-49fa-bb15-c5d786b74e351630497951879-Biba-Women-Yellow-Printed-Regular-Gotta-Patti-Kurta-with-Tro-1.jpg"
+        "image": "/images/849c44d7-0274-49fa-bb15-c5d786b74e351630497951879-Biba-Women-Yellow-Printed-Regular-Gotta-Patti-Kurta-with-Tro-1.jpg"
     },
     {
         "name": "Ode by House of Pataudi Women Pink Cotton Floral Printed Rozana Fit & flare Kurta",
@@ -1889,7 +1757,7 @@
         "countInStock": 100,
         "numReviews": 131,
         "rating": 4,
-        "image": "images/f365c0fe-57f7-4ebe-9f8f-bbf8120e36cf1631620025144-House-of-Pataudi-Women-Pink-Cotton-Ethnic-Motifs-Printed-A-L-1.jpg"
+        "image": "/images/f365c0fe-57f7-4ebe-9f8f-bbf8120e36cf1631620025144-House-of-Pataudi-Women-Pink-Cotton-Ethnic-Motifs-Printed-A-L-1.jpg"
     },
     {
         "name": "AHIKA Women Red Solid Mandarin Collar Kurta",
@@ -1900,7 +1768,7 @@
         "countInStock": 100,
         "numReviews": 220,
         "rating": 4,
-        "image": "images/5996e097-b07b-428c-8202-e764199818271614317038830-AHIKA-Women-Kurtas-441614317037118-1.jpg"
+        "image": "/images/5996e097-b07b-428c-8202-e764199818271614317038830-AHIKA-Women-Kurtas-441614317037118-1.jpg"
     },
     {
         "name": "Popnetic Women Beige & Green Printed Kurta with Palazzos",
@@ -1911,7 +1779,7 @@
         "countInStock": 100,
         "numReviews": 2141,
         "rating": 4,
-        "image": "images/6157f773-e18c-4f68-8251-4713a13f5ed11578903181136-Popnetic-Women-Beige--Green-Printed-Kurta-with-Palazzos-4561-1.jpg"
+        "image": "/images/6157f773-e18c-4f68-8251-4713a13f5ed11578903181136-Popnetic-Women-Beige--Green-Printed-Kurta-with-Palazzos-4561-1.jpg"
     },
     {
         "name": "Ojjasvi Women White Geometric Lace Kurta",
@@ -1922,7 +1790,7 @@
         "countInStock": 100,
         "numReviews": 28,
         "rating": 4,
-        "image": "images/b8b196fb-ada1-488a-91d2-9d73f1e118811651549606275OjjasviWomenWhiteGeometricEmbroideredChikankariKaftanKurta1.jpg"
+        "image": "/images/b8b196fb-ada1-488a-91d2-9d73f1e118811651549606275OjjasviWomenWhiteGeometricEmbroideredChikankariKaftanKurta1.jpg"
     },
     {
         "name": "anayna Women White & Pink Printed Kurta with Palazzos",
@@ -1933,7 +1801,7 @@
         "countInStock": 100,
         "numReviews": 146,
         "rating": 4,
-        "image": "images/44ff3091-f272-465c-9b39-31d9b759a1a61618405415799AnaynaWomensPrintedCottonSuitSet2.jpg"
+        "image": "/images/44ff3091-f272-465c-9b39-31d9b759a1a61618405415799AnaynaWomensPrintedCottonSuitSet2.jpg"
     },
     {
         "name": "Varanga Women Teal Panelled Kurta with Trousers & With Dupatta",
@@ -1944,7 +1812,7 @@
         "countInStock": 100,
         "numReviews": 316,
         "rating": 4,
-        "image": "images/05537f6d-609f-4d48-a7e4-41eb071e4ba51623668850922-1.jpg"
+        "image": "/images/05537f6d-609f-4d48-a7e4-41eb071e4ba51623668850922-1.jpg"
     },
     {
         "name": "ANAISA Criss-Cross Screen Print Gotta Kurta Set",
@@ -1955,7 +1823,7 @@
         "countInStock": 100,
         "numReviews": 6076,
         "rating": 4,
-        "image": "images/e077dae0-1c28-4642-b3a3-7fa7cb2accf11578655827854-ANAISA-Women-White--Blue-Printed-Kurta-with-Palazzos-4915786-1.jpg"
+        "image": "/images/e077dae0-1c28-4642-b3a3-7fa7cb2accf11578655827854-ANAISA-Women-White--Blue-Printed-Kurta-with-Palazzos-4915786-1.jpg"
     },
     {
         "name": "Libas Women Blue Paisley Yoke Design Gotta Patti Pastels Kurta",
@@ -1966,7 +1834,7 @@
         "countInStock": 100,
         "numReviews": 23,
         "rating": 5,
-        "image": "images/f3461a1e-9ffb-4ac1-acb5-94d3e0e1816f1644228506158-Blue-Viscose-Rayon-Printed-And-Yoke-Design-With-Gotta-Patti--1.jpg"
+        "image": "/images/f3461a1e-9ffb-4ac1-acb5-94d3e0e1816f1644228506158-Blue-Viscose-Rayon-Printed-And-Yoke-Design-With-Gotta-Patti--1.jpg"
     },
     {
         "name": "Inddus Women Purple Solid Kurta with Trousers & Dupatta",
@@ -1977,7 +1845,7 @@
         "countInStock": 100,
         "numReviews": 483,
         "rating": 4,
-        "image": "images/fbabb776-0d90-44d2-9e56-b7ceb2dd4f191617963026411-Inddus-Lilac-Laced-Kurta-with-Trouser-and-Ruffled-Dupatta-43-1.jpg"
+        "image": "/images/fbabb776-0d90-44d2-9e56-b7ceb2dd4f191617963026411-Inddus-Lilac-Laced-Kurta-with-Trouser-and-Ruffled-Dupatta-43-1.jpg"
     },
     {
         "name": "AHIKA Women Off-White & Green Printed Kurta with Palazzos",
@@ -1988,6 +1856,6 @@
         "countInStock": 100,
         "numReviews": 1401,
         "rating": 4,
-        "image": "images/b3a2f107-2633-4f23-93c2-caba0e768fe61614317062422-AHIKA-Women-Kurta-Sets-4641614317060315-1.jpg"
+        "image": "/images/b3a2f107-2633-4f23-93c2-caba0e768fe61614317062422-AHIKA-Women-Kurta-Sets-4641614317060315-1.jpg"
     }
 ]
